@@ -1,0 +1,1026 @@
+ [22:01:33] udpCreated id=3 pid=2564 local=172.20.10.7:54344
+	Process: 
+
+ [22:01:33] udpCreated id=9 pid=2564 local=172.20.10.7:55728
+	Process: 
+
+ [22:01:33] udpCreated id=14 pid=2564 local=172.20.10.7:65321
+	Process: 
+
+ [22:01:33] udpCreated id=16 pid=2564 local=172.20.10.7:53867
+	Process: 
+
+ [22:01:33] udpCreated id=17 pid=13176 local=172.20.10.7:53868
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=21 pid=13176 local=172.20.10.7:49823
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=22 pid=13176 local=172.20.10.7:49824
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=91 pid=2564 local=172.20.10.7:62724
+	Process: 
+
+ [22:01:33] udpCreated id=94 pid=4 local=172.20.10.7:55667
+	Process: 
+
+ [22:01:33] udpCreated id=95 pid=2564 local=172.20.10.7:58564
+	Process: 
+
+ [22:01:33] udpCreated id=127 pid=2564 local=172.20.10.7:59718
+	Process: 
+
+ [22:01:33] udpCreated id=131 pid=2564 local=172.20.10.7:56903
+	Process: 
+
+ [22:01:33] udpCreated id=132 pid=2564 local=172.20.10.7:63293
+	Process: 
+
+ [22:01:33] udpCreated id=133 pid=2564 local=172.20.10.7:61686
+	Process: 
+
+ [22:01:33] udpCreated id=141 pid=13176 local=172.20.10.7:62645
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=148 pid=13176 local=172.20.10.7:65023
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=225 pid=4 local=172.20.10.15:138
+	Process: 
+
+ [22:01:33] udpCreated id=226 pid=4 local=192.168.56.255:138
+	Process: 
+
+ [22:01:33] udpCreated id=289 pid=13176 local=172.20.10.7:52241
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=295 pid=13176 local=172.20.10.7:57654
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=300 pid=2564 local=172.20.10.7:57429
+	Process: 
+
+ [22:01:33] udpCreated id=305 pid=2564 local=172.20.10.7:58604
+	Process: 
+
+ [22:01:33] udpCreated id=308 pid=2564 local=172.20.10.7:57328
+	Process: 
+
+ [22:01:33] udpCreated id=309 pid=13176 local=172.20.10.7:59472
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=311 pid=2564 local=172.20.10.7:59548
+	Process: 
+
+ [22:01:33] udpCreated id=312 pid=13176 local=172.20.10.7:59549
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=314 pid=0 local=172.20.10.7:63159
+	Process: 
+
+ [22:01:33] udpCreated id=325 pid=13176 local=172.20.10.7:55934
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=350 pid=13176 local=172.20.10.7:54942
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=351 pid=13176 local=172.20.10.7:54943
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=352 pid=2564 local=172.20.10.7:58554
+	Process: 
+
+ [22:01:33] udpCreated id=362 pid=13176 local=172.20.10.7:51942
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=363 pid=13176 local=172.20.10.7:51943
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=383 pid=13176 local=172.20.10.7:64402
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=385 pid=13176 local=172.20.10.7:64159
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=401 pid=13176 local=172.20.10.7:51177
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=402 pid=13176 local=172.20.10.7:51178
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=421 pid=13176 local=172.20.10.7:53732
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:33] udpCreated id=422 pid=13176 local=172.20.10.7:53733
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:01:37] udpCreated id=438 pid=2564 local=172.20.10.7:63475
+	Process: 
+
+ [22:01:37] << udpSend id=438 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] << udpSend id=438 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=438 len=97 remoteAddress=172.20.10.1:53
+
+ [22:01:37] udpClosed id=438 pid=2564 local=172.20.10.7:63475
+
+ [22:01:37] udpCreated id=439 pid=2564 local=172.20.10.7:56745
+	Process: 
+
+ [22:01:37] << udpSend id=439 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] udpCreated id=440 pid=2564 local=172.20.10.7:63760
+	Process: 
+
+ [22:01:37] << udpSend id=440 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=439 len=58 remoteAddress=172.20.10.1:53
+
+ [22:01:37] udpClosed id=439 pid=2564 local=172.20.10.7:56745
+
+ [22:01:37] udpCreated id=441 pid=2564 local=172.20.10.7:61368
+	Process: 
+
+ [22:01:37] << udpSend id=441 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=440 len=97 remoteAddress=172.20.10.1:53
+
+ [22:01:37] udpClosed id=440 pid=2564 local=172.20.10.7:63760
+
+ [22:01:37] << udpSend id=441 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=441 len=127 remoteAddress=172.20.10.1:53
+
+ [22:01:37] udpClosed id=441 pid=2564 local=172.20.10.7:61368
+
+ [22:01:37] udpCreated id=442 pid=2564 local=172.20.10.7:50943
+	Process: 
+
+ [22:01:37] << udpSend id=442 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=442 len=71 remoteAddress=172.20.10.1:53
+
+ [22:01:37] << udpSend id=442 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] udpClosed id=442 pid=2564 local=172.20.10.7:50943
+
+ [22:01:37] udpCreated id=443 pid=2564 local=172.20.10.7:64416
+	Process: 
+
+ [22:01:37] << udpSend id=443 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:37] >> udpReceive id=443 len=139 remoteAddress=172.20.10.1:53
+
+ [22:01:37] udpClosed id=443 pid=2564 local=172.20.10.7:64416
+
+ [22:01:43] udpCreated id=444 pid=2564 local=172.20.10.7:56280
+	Process: 
+
+ [22:01:43] << udpSend id=444 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:43] << udpSend id=444 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:43] >> udpReceive id=444 len=140 remoteAddress=172.20.10.1:53
+
+ [22:01:43] udpClosed id=444 pid=2564 local=172.20.10.7:56280
+
+ [22:01:45] udpCreated id=445 pid=2564 local=172.20.10.7:55271
+	Process: 
+
+ [22:01:45] << udpSend id=445 len=45 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:45] << udpSend id=445 len=45 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:45] >> udpReceive id=445 len=61 remoteAddress=172.20.10.1:53
+
+ [22:01:45] udpClosed id=445 pid=2564 local=172.20.10.7:55271
+
+ [22:01:45] udpCreated id=446 pid=2564 local=172.20.10.7:57103
+	Process: 
+
+ [22:01:45] << udpSend id=446 len=45 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:45] >> udpReceive id=446 len=73 remoteAddress=172.20.10.1:53
+
+ [22:01:45] << udpSend id=446 len=45 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:45] udpClosed id=446 pid=2564 local=172.20.10.7:57103
+
+ [22:01:49] udpCreated id=447 pid=2564 local=172.20.10.7:55605
+	Process: 
+
+ [22:01:49] << udpSend id=447 len=28 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:49] << udpSend id=447 len=28 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:49] >> udpReceive id=447 len=44 remoteAddress=172.20.10.1:53
+
+ [22:01:49] udpClosed id=447 pid=2564 local=172.20.10.7:55605
+
+ [22:01:49] udpCreated id=448 pid=2564 local=172.20.10.7:55980
+	Process: 
+
+ [22:01:49] << udpSend id=448 len=28 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:49] >> udpReceive id=448 len=112 remoteAddress=172.20.10.1:53
+
+ [22:01:49] udpClosed id=448 pid=2564 local=172.20.10.7:55980
+
+ [22:01:50] udpCreated id=449 pid=2564 local=172.20.10.7:64036
+	Process: 
+
+ [22:01:50] << udpSend id=449 len=38 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] << udpSend id=449 len=38 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] udpCreated id=450 pid=2564 local=172.20.10.7:61240
+	Process: 
+
+ [22:01:50] << udpSend id=450 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] >> udpReceive id=449 len=87 remoteAddress=172.20.10.1:53
+
+ [22:01:50] udpClosed id=449 pid=2564 local=172.20.10.7:64036
+
+ [22:01:50] udpCreated id=451 pid=2564 local=172.20.10.7:58055
+	Process: 
+
+ [22:01:50] << udpSend id=451 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] << udpSend id=450 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] << udpSend id=451 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] >> udpReceive id=451 len=63 remoteAddress=172.20.10.1:53
+
+ [22:01:50] >> udpReceive id=450 len=48 remoteAddress=172.20.10.1:53
+
+ [22:01:50] udpClosed id=451 pid=2564 local=172.20.10.7:58055
+
+ [22:01:50] udpClosed id=450 pid=2564 local=172.20.10.7:61240
+
+ [22:01:50] udpCreated id=452 pid=2564 local=172.20.10.7:58774
+	Process: 
+
+ [22:01:50] << udpSend id=452 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] udpCreated id=453 pid=2564 local=172.20.10.7:49664
+	Process: 
+
+ [22:01:50] << udpSend id=453 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:50] >> udpReceive id=452 len=131 remoteAddress=172.20.10.1:53
+
+ [22:01:50] >> udpReceive id=453 len=116 remoteAddress=172.20.10.1:53
+
+ [22:01:50] udpClosed id=452 pid=2564 local=172.20.10.7:58774
+
+ [22:01:50] udpClosed id=453 pid=2564 local=172.20.10.7:49664
+
+ [22:01:51] udpCreated id=454 pid=2564 local=172.20.10.7:53523
+	Process: 
+
+ [22:01:51] << udpSend id=454 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] << udpSend id=454 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] >> udpReceive id=454 len=159 remoteAddress=172.20.10.1:53
+
+ [22:01:51] udpClosed id=454 pid=2564 local=172.20.10.7:53523
+
+ [22:01:51] udpCreated id=455 pid=2564 local=172.20.10.7:59769
+	Process: 
+
+ [22:01:51] << udpSend id=455 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] << udpSend id=455 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] >> udpReceive id=455 len=201 remoteAddress=172.20.10.1:53
+
+ [22:01:51] udpClosed id=455 pid=2564 local=172.20.10.7:59769
+
+ [22:01:51] udpCreated id=456 pid=2564 local=172.20.10.7:49879
+	Process: 
+
+ [22:01:51] << udpSend id=456 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] >> udpReceive id=456 len=57 remoteAddress=172.20.10.1:53
+
+ [22:01:51] udpClosed id=456 pid=2564 local=172.20.10.7:49879
+
+ [22:01:51] udpCreated id=457 pid=2564 local=172.20.10.7:59862
+	Process: 
+
+ [22:01:51] << udpSend id=457 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] << udpSend id=457 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:51] >> udpReceive id=457 len=102 remoteAddress=172.20.10.1:53
+
+ [22:01:51] udpClosed id=457 pid=2564 local=172.20.10.7:59862
+
+ [22:01:52] udpCreated id=458 pid=2564 local=172.20.10.7:58380
+	Process: 
+
+ [22:01:52] << udpSend id=458 len=35 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] udpCreated id=459 pid=2564 local=172.20.10.7:54572
+	Process: 
+
+ [22:01:52] << udpSend id=459 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=458 len=35 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=459 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=458 len=146 remoteAddress=172.20.10.1:53
+
+ [22:01:52] >> udpReceive id=459 len=198 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=458 pid=2564 local=172.20.10.7:58380
+
+ [22:01:52] udpClosed id=459 pid=2564 local=172.20.10.7:54572
+
+ [22:01:52] udpCreated id=460 pid=2564 local=172.20.10.7:53418
+	Process: 
+
+ [22:01:52] << udpSend id=460 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=460 len=84 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=460 pid=2564 local=172.20.10.7:53418
+
+ [22:01:52] udpCreated id=461 pid=2564 local=172.20.10.7:53853
+	Process: 
+
+ [22:01:52] << udpSend id=461 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=461 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=461 len=118 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=461 pid=2564 local=172.20.10.7:53853
+
+ [22:01:52] udpCreated id=462 pid=2564 local=172.20.10.7:56357
+	Process: 
+
+ [22:01:52] << udpSend id=462 len=31 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] udpCreated id=463 pid=2564 local=172.20.10.7:63710
+	Process: 
+
+ [22:01:52] << udpSend id=463 len=30 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=462 len=31 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=463 len=30 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=462 len=142 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=462 pid=2564 local=172.20.10.7:56357
+
+ [22:01:52] udpCreated id=464 pid=2564 local=172.20.10.7:53321
+	Process: 
+
+ [22:01:52] << udpSend id=464 len=30 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=464 len=30 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=464 len=97 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=464 pid=2564 local=172.20.10.7:53321
+
+ [22:01:52] udpCreated id=465 pid=2564 local=172.20.10.7:53496
+	Process: 
+
+ [22:01:52] << udpSend id=465 len=49 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] udpCreated id=466 pid=2564 local=172.20.10.7:62355
+	Process: 
+
+ [22:01:52] << udpSend id=466 len=31 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] >> udpReceive id=465 len=81 remoteAddress=172.20.10.1:53
+
+ [22:01:52] udpClosed id=465 pid=2564 local=172.20.10.7:53496
+
+ [22:01:52] udpCreated id=467 pid=2564 local=172.20.10.7:52354
+	Process: 
+
+ [22:01:52] << udpSend id=467 len=49 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=467 len=49 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:52] << udpSend id=466 len=31 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] udpCreated id=468 pid=2564 local=172.20.10.7:59824
+	Process: 
+
+ [22:01:53] << udpSend id=468 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=468 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=466 len=90 remoteAddress=172.20.10.1:53
+
+ [22:01:53] >> udpReceive id=463 len=258 remoteAddress=172.20.10.1:53
+
+ [22:01:53] >> udpReceive id=467 len=115 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=466 pid=2564 local=172.20.10.7:62355
+
+ [22:01:53] udpClosed id=463 pid=2564 local=172.20.10.7:63710
+
+ [22:01:53] udpClosed id=467 pid=2564 local=172.20.10.7:52354
+
+ [22:01:53] udpCreated id=469 pid=2564 local=172.20.10.7:57088
+	Process: 
+
+ [22:01:53] << udpSend id=469 len=50 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=469 len=66 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=469 pid=2564 local=172.20.10.7:57088
+
+ [22:01:53] udpCreated id=470 pid=2564 local=172.20.10.7:52270
+	Process: 
+
+ [22:01:53] << udpSend id=470 len=50 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=470 len=50 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=468 len=174 remoteAddress=172.20.10.1:53
+
+ [22:01:53] >> udpReceive id=470 len=97 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=468 pid=2564 local=172.20.10.7:59824
+
+ [22:01:53] udpClosed id=470 pid=2564 local=172.20.10.7:52270
+
+ [22:01:53] udpCreated id=471 pid=2564 local=172.20.10.7:64780
+	Process: 
+
+ [22:01:53] << udpSend id=471 len=58 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=471 len=74 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=471 pid=2564 local=172.20.10.7:64780
+
+ [22:01:53] udpCreated id=472 pid=2564 local=172.20.10.7:56905
+	Process: 
+
+ [22:01:53] << udpSend id=472 len=58 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=472 len=58 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] udpCreated id=473 pid=2564 local=172.20.10.7:56571
+	Process: 
+
+ [22:01:53] << udpSend id=473 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=473 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=472 len=105 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=472 pid=2564 local=172.20.10.7:56905
+
+ [22:01:53] >> udpReceive id=473 len=134 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=473 pid=2564 local=172.20.10.7:56571
+
+ [22:01:53] udpCreated id=474 pid=2564 local=172.20.10.7:60805
+	Process: 
+
+ [22:01:53] << udpSend id=474 len=54 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=474 len=70 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=474 pid=2564 local=172.20.10.7:60805
+
+ [22:01:53] udpCreated id=475 pid=2564 local=172.20.10.7:49857
+	Process: 
+
+ [22:01:53] << udpSend id=475 len=54 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] udpCreated id=476 pid=2564 local=172.20.10.7:50380
+	Process: 
+
+ [22:01:53] << udpSend id=476 len=48 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=475 len=54 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=476 len=48 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=475 len=82 remoteAddress=172.20.10.1:53
+
+ [22:01:53] >> udpReceive id=476 len=141 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=475 pid=2564 local=172.20.10.7:49857
+
+ [22:01:53] udpClosed id=476 pid=2564 local=172.20.10.7:50380
+
+ [22:01:53] udpCreated id=477 pid=2564 local=172.20.10.7:51246
+	Process: 
+
+ [22:01:53] << udpSend id=477 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=477 len=57 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=477 pid=2564 local=172.20.10.7:51246
+
+ [22:01:53] udpCreated id=478 pid=2564 local=172.20.10.7:50060
+	Process: 
+
+ [22:01:53] << udpSend id=478 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=478 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=478 len=102 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=478 pid=2564 local=172.20.10.7:50060
+
+ [22:01:53] udpCreated id=479 pid=2564 local=172.20.10.7:64610
+	Process: 
+
+ [22:01:53] << udpSend id=479 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=479 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=479 len=135 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=479 pid=2564 local=172.20.10.7:64610
+
+ [22:01:53] udpCreated id=480 pid=2564 local=172.20.10.7:54168
+	Process: 
+
+ [22:01:53] << udpSend id=480 len=44 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=480 len=60 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=480 pid=2564 local=172.20.10.7:54168
+
+ [22:01:53] udpCreated id=481 pid=2564 local=172.20.10.7:60262
+	Process: 
+
+ [22:01:53] << udpSend id=481 len=44 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=481 len=44 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=481 len=100 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=481 pid=2564 local=172.20.10.7:60262
+
+ [22:01:53] udpCreated id=482 pid=2564 local=172.20.10.7:56896
+	Process: 
+
+ [22:01:53] << udpSend id=482 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=482 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=482 len=289 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=482 pid=2564 local=172.20.10.7:56896
+
+ [22:01:53] udpCreated id=483 pid=2564 local=172.20.10.7:57198
+	Process: 
+
+ [22:01:53] << udpSend id=483 len=89 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=483 len=105 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=483 pid=2564 local=172.20.10.7:57198
+
+ [22:01:53] udpCreated id=484 pid=2564 local=172.20.10.7:56642
+	Process: 
+
+ [22:01:53] << udpSend id=484 len=89 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] << udpSend id=484 len=89 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:53] >> udpReceive id=484 len=136 remoteAddress=172.20.10.1:53
+
+ [22:01:53] udpClosed id=484 pid=2564 local=172.20.10.7:56642
+
+ [22:01:54] udpCreated id=485 pid=2564 local=172.20.10.7:65110
+	Process: 
+
+ [22:01:54] << udpSend id=485 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:54] udpCreated id=486 pid=2564 local=172.20.10.7:63311
+	Process: 
+
+ [22:01:54] << udpSend id=486 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:54] << udpSend id=485 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:54] << udpSend id=486 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:54] >> udpReceive id=486 len=58 remoteAddress=172.20.10.1:53
+
+ [22:01:54] udpClosed id=486 pid=2564 local=172.20.10.7:63311
+
+ [22:01:54] udpCreated id=487 pid=2564 local=172.20.10.7:50289
+	Process: 
+
+ [22:01:54] << udpSend id=487 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:54] >> udpReceive id=487 len=58 remoteAddress=172.20.10.1:53
+
+ [22:01:54] udpClosed id=487 pid=2564 local=172.20.10.7:50289
+
+ [22:01:54] >> udpReceive id=485 len=176 remoteAddress=172.20.10.1:53
+
+ [22:01:54] udpClosed id=485 pid=2564 local=172.20.10.7:65110
+
+ [22:01:55] udpCreated id=488 pid=2564 local=172.20.10.7:63598
+	Process: 
+
+ [22:01:55] << udpSend id=488 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] << udpSend id=488 len=47 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] >> udpReceive id=488 len=313 remoteAddress=172.20.10.1:53
+
+ [22:01:55] udpClosed id=488 pid=2564 local=172.20.10.7:63598
+
+ [22:01:55] udpCreated id=489 pid=2564 local=172.20.10.7:49340
+	Process: 
+
+ [22:01:55] << udpSend id=489 len=80 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] >> udpReceive id=489 len=96 remoteAddress=172.20.10.1:53
+
+ [22:01:55] udpClosed id=489 pid=2564 local=172.20.10.7:49340
+
+ [22:01:55] udpCreated id=490 pid=2564 local=172.20.10.7:52262
+	Process: 
+
+ [22:01:55] << udpSend id=490 len=80 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] << udpSend id=490 len=80 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] udpCreated id=491 pid=2564 local=172.20.10.7:65449
+	Process: 
+
+ [22:01:55] << udpSend id=491 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] << udpSend id=491 len=36 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] >> udpReceive id=490 len=127 remoteAddress=172.20.10.1:53
+
+ [22:01:55] udpClosed id=490 pid=2564 local=172.20.10.7:52262
+
+ [22:01:55] >> udpReceive id=491 len=274 remoteAddress=172.20.10.1:53
+
+ [22:01:55] udpClosed id=491 pid=2564 local=172.20.10.7:65449
+
+ [22:01:55] udpCreated id=492 pid=2564 local=172.20.10.7:58251
+	Process: 
+
+ [22:01:55] << udpSend id=492 len=85 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] << udpSend id=492 len=85 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] >> udpReceive id=492 len=101 remoteAddress=172.20.10.1:53
+
+ [22:01:55] udpClosed id=492 pid=2564 local=172.20.10.7:58251
+
+ [22:01:55] udpCreated id=493 pid=2564 local=172.20.10.7:51632
+	Process: 
+
+ [22:01:55] << udpSend id=493 len=85 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:55] << udpSend id=493 len=85 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:01:56] >> udpReceive id=493 len=309 remoteAddress=172.20.10.1:53
+
+ [22:01:56] udpClosed id=493 pid=2564 local=172.20.10.7:51632
+
+ [22:02:12] udpCreated id=494 pid=2564 local=172.20.10.7:58047
+	Process: 
+
+ [22:02:12] << udpSend id=494 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] << udpSend id=494 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] >> udpReceive id=494 len=113 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=494 pid=2564 local=172.20.10.7:58047
+
+ [22:02:12] udpCreated id=495 pid=2564 local=172.20.10.7:54258
+	Process: 
+
+ [22:02:12] << udpSend id=495 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] >> udpReceive id=495 len=84 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=495 pid=2564 local=172.20.10.7:54258
+
+ [22:02:12] udpCreated id=496 pid=2564 local=172.20.10.7:49177
+	Process: 
+
+ [22:02:12] << udpSend id=496 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] << udpSend id=496 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] >> udpReceive id=496 len=108 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=496 pid=2564 local=172.20.10.7:49177
+
+ [22:02:12] udpCreated id=497 pid=2564 local=172.20.10.7:64628
+	Process: 
+
+ [22:02:12] << udpSend id=497 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] << udpSend id=497 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] >> udpReceive id=497 len=57 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=497 pid=2564 local=172.20.10.7:64628
+
+ [22:02:12] udpCreated id=498 pid=2564 local=172.20.10.7:55832
+	Process: 
+
+ [22:02:12] << udpSend id=498 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] udpCreated id=499 pid=13176 local=172.20.10.7:64629
+	Process: C:\Program Files\Mozilla Firefox\firefox.exe
+
+ [22:02:12] >> udpReceive id=498 len=57 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=498 pid=2564 local=172.20.10.7:55832
+
+ [22:02:12] udpCreated id=500 pid=2564 local=172.20.10.7:64008
+	Process: 
+
+ [22:02:12] << udpSend id=500 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] << udpSend id=500 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:12] >> udpReceive id=500 len=134 remoteAddress=172.20.10.1:53
+
+ [22:02:12] >> udpReceive id=500 len=134 remoteAddress=172.20.10.1:53
+
+ [22:02:12] udpClosed id=500 pid=2564 local=172.20.10.7:64008
+
+ [22:02:13] udpCreated id=501 pid=2564 local=172.20.10.7:55275
+	Process: 
+
+ [22:02:13] << udpSend id=501 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:13] << udpSend id=501 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:13] >> udpReceive id=501 len=140 remoteAddress=172.20.10.1:53
+
+ [22:02:13] udpClosed id=501 pid=2564 local=172.20.10.7:55275
+
+ [22:02:21] udpCreated id=502 pid=2564 local=172.20.10.7:56319
+	Process: 
+
+ [22:02:21] << udpSend id=502 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:21] << udpSend id=502 len=32 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:21] >> udpReceive id=502 len=137 remoteAddress=172.20.10.1:53
+
+ [22:02:21] udpClosed id=502 pid=2564 local=172.20.10.7:56319
+
+ [22:02:21] udpCreated id=503 pid=2564 local=172.20.10.7:63772
+	Process: 
+
+ [22:02:21] << udpSend id=503 len=41 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:22] >> udpReceive id=503 len=138 remoteAddress=172.20.10.1:53
+
+ [22:02:22] udpClosed id=503 pid=2564 local=172.20.10.7:63772
+
+ [22:02:28] udpCreated id=504 pid=2564 local=172.20.10.7:50730
+	Process: 
+
+ [22:02:28] << udpSend id=504 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:28] >> udpReceive id=504 len=140 remoteAddress=172.20.10.1:53
+
+ [22:02:28] udpClosed id=504 pid=2564 local=172.20.10.7:50730
+
+ [22:02:42] udpClosed id=499 pid=13176 local=172.20.10.7:64629
+
+ [22:02:43] udpCreated id=505 pid=2564 local=172.20.10.7:58760
+	Process: 
+
+ [22:02:43] << udpSend id=505 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:43] << udpSend id=505 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:43] >> udpReceive id=505 len=140 remoteAddress=172.20.10.1:53
+
+ [22:02:43] udpClosed id=505 pid=2564 local=172.20.10.7:58760
+
+ [22:02:57] udpCreated id=506 pid=2564 local=172.20.10.7:49791
+	Process: 
+
+ [22:02:57] << udpSend id=506 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:57] << udpSend id=506 len=33 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:57] >> udpReceive id=506 len=113 remoteAddress=172.20.10.1:53
+
+ [22:02:57] udpClosed id=506 pid=2564 local=172.20.10.7:49791
+
+ [22:02:57] udpCreated id=507 pid=2564 local=172.20.10.7:58104
+	Process: 
+
+ [22:02:57] << udpSend id=507 len=52 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:02:57] >> udpReceive id=507 len=84 remoteAddress=172.20.10.1:53
+
+ [22:02:57] udpClosed id=507 pid=2564 local=172.20.10.7:58104
+
+ [22:03:13] udpCreated id=508 pid=2564 local=172.20.10.7:62018
+	Process: 
+
+ [22:03:13] << udpSend id=508 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:13] << udpSend id=508 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:13] >> udpReceive id=508 len=140 remoteAddress=172.20.10.1:53
+
+ [22:03:13] udpClosed id=508 pid=2564 local=172.20.10.7:62018
+
+ [22:03:28] udpCreated id=509 pid=2564 local=172.20.10.7:50060
+	Process: 
+
+ [22:03:28] << udpSend id=509 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:28] << udpSend id=509 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:28] >> udpReceive id=509 len=140 remoteAddress=172.20.10.1:53
+
+ [22:03:28] udpClosed id=509 pid=2564 local=172.20.10.7:50060
+
+ [22:03:37] udpCreated id=510 pid=2564 local=172.20.10.7:63767
+	Process: 
+
+ [22:03:37] << udpSend id=510 len=46 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:37] udpCreated id=511 pid=2564 local=172.20.10.7:59206
+	Process: 
+
+ [22:03:37] << udpSend id=511 len=61 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:37] >> udpReceive id=511 len=145 remoteAddress=172.20.10.1:53
+
+ [22:03:37] udpClosed id=511 pid=2564 local=172.20.10.7:59206
+
+ [22:03:37] << udpSend id=510 len=46 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:37] >> udpReceive id=510 len=142 remoteAddress=172.20.10.1:53
+
+ [22:03:37] udpClosed id=510 pid=2564 local=172.20.10.7:63767
+
+ [22:03:37] udpCreated id=512 pid=2564 local=172.20.10.7:55646
+	Process: 
+
+ [22:03:37] << udpSend id=512 len=46 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:37] >> udpReceive id=512 len=142 remoteAddress=172.20.10.1:53
+
+ [22:03:37] udpClosed id=512 pid=2564 local=172.20.10.7:55646
+
+ [22:03:37] udpCreated id=513 pid=2564 local=172.20.10.7:55133
+	Process: 
+
+ [22:03:37] << udpSend id=513 len=46 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:37] >> udpReceive id=513 len=127 remoteAddress=172.20.10.1:53
+
+ [22:03:37] udpClosed id=513 pid=2564 local=172.20.10.7:55133
+
+ [22:03:43] udpCreated id=514 pid=2564 local=172.20.10.7:55510
+	Process: 
+
+ [22:03:43] << udpSend id=514 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:43] << udpSend id=514 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:03:43] >> udpReceive id=514 len=140 remoteAddress=172.20.10.1:53
+
+ [22:03:43] udpClosed id=514 pid=2564 local=172.20.10.7:55510
+
+ [22:04:13] udpCreated id=515 pid=2564 local=172.20.10.7:50778
+	Process: 
+
+ [22:04:13] << udpSend id=515 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:13] >> udpReceive id=515 len=140 remoteAddress=172.20.10.1:53
+
+ [22:04:13] udpClosed id=515 pid=2564 local=172.20.10.7:50778
+
+ [22:04:28] udpCreated id=516 pid=2564 local=172.20.10.7:54393
+	Process: 
+
+ [22:04:28] << udpSend id=516 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:28] >> udpReceive id=516 len=140 remoteAddress=172.20.10.1:53
+
+ [22:04:28] udpClosed id=516 pid=2564 local=172.20.10.7:54393
+
+ [22:04:43] udpCreated id=517 pid=2564 local=172.20.10.7:54509
+	Process: 
+
+ [22:04:43] << udpSend id=517 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] << udpSend id=517 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=517 len=97 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=517 pid=2564 local=172.20.10.7:54509
+
+ [22:04:43] udpCreated id=518 pid=2564 local=172.20.10.7:56413
+	Process: 
+
+ [22:04:43] << udpSend id=518 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] udpCreated id=519 pid=2564 local=172.20.10.7:50651
+	Process: 
+
+ [22:04:43] << udpSend id=519 len=43 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=518 len=58 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=518 pid=2564 local=172.20.10.7:56413
+
+ [22:04:43] udpCreated id=520 pid=2564 local=172.20.10.7:54418
+	Process: 
+
+ [22:04:43] << udpSend id=520 len=42 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=519 len=97 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=519 pid=2564 local=172.20.10.7:50651
+
+ [22:04:43] >> udpReceive id=520 len=127 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=520 pid=2564 local=172.20.10.7:54418
+
+ [22:04:43] udpCreated id=521 pid=2564 local=172.20.10.7:55932
+	Process: 
+
+ [22:04:43] << udpSend id=521 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] << udpSend id=521 len=34 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=521 len=140 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=521 pid=2564 local=172.20.10.7:55932
+
+ [22:04:43] udpCreated id=522 pid=2564 local=172.20.10.7:58125
+	Process: 
+
+ [22:04:43] << udpSend id=522 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=522 len=71 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=522 pid=2564 local=172.20.10.7:58125
+
+ [22:04:43] udpCreated id=523 pid=2564 local=172.20.10.7:55167
+	Process: 
+
+ [22:04:43] << udpSend id=523 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=523 len=71 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=523 pid=2564 local=172.20.10.7:55167
+
+ [22:04:43] udpCreated id=524 pid=2564 local=172.20.10.7:55181
+	Process: 
+
+ [22:04:43] << udpSend id=524 len=55 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:43] >> udpReceive id=524 len=139 remoteAddress=172.20.10.1:53
+
+ [22:04:43] udpClosed id=524 pid=2564 local=172.20.10.7:55181
+
+ [22:04:44] udpCreated id=525 pid=2564 local=172.20.10.7:53567
+	Process: 
+
+ [22:04:44] << udpSend id=525 len=53 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:44] << udpSend id=525 len=53 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:44] >> udpReceive id=525 len=207 remoteAddress=172.20.10.1:53
+
+ [22:04:44] udpClosed id=525 pid=2564 local=172.20.10.7:53567
+
+ [22:04:44] udpCreated id=526 pid=2564 local=172.20.10.7:50983
+	Process: 
+
+ [22:04:44] << udpSend id=526 len=75 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:44] << udpSend id=526 len=75 remoteAddress=172.20.10.1:53 flags=0 optionsLen=100
+
+ [22:04:44] >> udpReceive id=526 len=103 remoteAddress=172.20.10.1:53
+
+ [22:04:44] udpClosed id=526 pid=2564 local=172.20.10.7:50983
+

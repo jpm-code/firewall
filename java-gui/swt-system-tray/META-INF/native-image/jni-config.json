@@ -1,0 +1,248 @@
+[
+{
+  "name":"java.lang.Boolean",
+  "methods":[{"name":"getBoolean","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.ACTCTX",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"dwFlags"}, 
+    {"name":"hModule"}, 
+    {"name":"lpApplicationName"}, 
+    {"name":"lpAssemblyDirectory"}, 
+    {"name":"lpResourceName"}, 
+    {"name":"lpSource"}, 
+    {"name":"wLangId"}, 
+    {"name":"wProcessorArchitecture"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.BITMAP",
+  "fields":[
+    {"name":"bmBits"}, 
+    {"name":"bmBitsPixel"}, 
+    {"name":"bmHeight"}, 
+    {"name":"bmPlanes"}, 
+    {"name":"bmType"}, 
+    {"name":"bmWidth"}, 
+    {"name":"bmWidthBytes"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.BITMAPINFOHEADER",
+  "fields":[
+    {"name":"biBitCount"}, 
+    {"name":"biClrImportant"}, 
+    {"name":"biClrUsed"}, 
+    {"name":"biCompression"}, 
+    {"name":"biHeight"}, 
+    {"name":"biPlanes"}, 
+    {"name":"biSize"}, 
+    {"name":"biSizeImage"}, 
+    {"name":"biWidth"}, 
+    {"name":"biXPelsPerMeter"}, 
+    {"name":"biYPelsPerMeter"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.DLLVERSIONINFO",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"dwBuildNumber"}, 
+    {"name":"dwMajorVersion"}, 
+    {"name":"dwMinorVersion"}, 
+    {"name":"dwPlatformID"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.HIGHCONTRAST",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"dwFlags"}, 
+    {"name":"lpszDefaultScheme"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.ICONINFO",
+  "fields":[
+    {"name":"fIcon"}, 
+    {"name":"hbmColor"}, 
+    {"name":"hbmMask"}, 
+    {"name":"xHotspot"}, 
+    {"name":"yHotspot"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.LOGFONT",
+  "fields":[
+    {"name":"lfCharSet"}, 
+    {"name":"lfClipPrecision"}, 
+    {"name":"lfEscapement"}, 
+    {"name":"lfHeight"}, 
+    {"name":"lfItalic"}, 
+    {"name":"lfOrientation"}, 
+    {"name":"lfOutPrecision"}, 
+    {"name":"lfPitchAndFamily"}, 
+    {"name":"lfQuality"}, 
+    {"name":"lfStrikeOut"}, 
+    {"name":"lfUnderline"}, 
+    {"name":"lfWeight"}, 
+    {"name":"lfWidth"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.LOGFONTW",
+  "fields":[{"name":"lfFaceName"}]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.MENUINFO",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"cyMax"}, 
+    {"name":"dwContextHelpID"}, 
+    {"name":"dwMenuData"}, 
+    {"name":"dwStyle"}, 
+    {"name":"fMask"}, 
+    {"name":"hbrBack"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.MENUITEMINFO",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"cch"}, 
+    {"name":"dwItemData"}, 
+    {"name":"dwTypeData"}, 
+    {"name":"fMask"}, 
+    {"name":"fState"}, 
+    {"name":"fType"}, 
+    {"name":"hSubMenu"}, 
+    {"name":"hbmpChecked"}, 
+    {"name":"hbmpItem"}, 
+    {"name":"hbmpUnchecked"}, 
+    {"name":"wID"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.MSG",
+  "fields":[
+    {"name":"hwnd"}, 
+    {"name":"lParam"}, 
+    {"name":"message"}, 
+    {"name":"time"}, 
+    {"name":"wParam"}, 
+    {"name":"x"}, 
+    {"name":"y"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.NONCLIENTMETRICS",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"iBorderWidth"}, 
+    {"name":"iCaptionHeight"}, 
+    {"name":"iCaptionWidth"}, 
+    {"name":"iMenuHeight"}, 
+    {"name":"iMenuWidth"}, 
+    {"name":"iScrollHeight"}, 
+    {"name":"iScrollWidth"}, 
+    {"name":"iSmCaptionHeight"}, 
+    {"name":"iSmCaptionWidth"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.NONCLIENTMETRICSW",
+  "fields":[
+    {"name":"lfCaptionFont"}, 
+    {"name":"lfMenuFont"}, 
+    {"name":"lfMessageFont"}, 
+    {"name":"lfSmCaptionFont"}, 
+    {"name":"lfStatusFont"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.NOTIFYICONDATA",
+  "fields":[
+    {"name":"cbSize"}, 
+    {"name":"dwInfoFlags"}, 
+    {"name":"dwState"}, 
+    {"name":"dwStateMask"}, 
+    {"name":"hIcon"}, 
+    {"name":"hWnd"}, 
+    {"name":"uCallbackMessage"}, 
+    {"name":"uFlags"}, 
+    {"name":"uID"}, 
+    {"name":"uVersion"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.NOTIFYICONDATAW",
+  "fields":[
+    {"name":"szInfo"}, 
+    {"name":"szInfoTitle"}, 
+    {"name":"szTip"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.OSVERSIONINFO",
+  "fields":[
+    {"name":"dwBuildNumber"}, 
+    {"name":"dwMajorVersion"}, 
+    {"name":"dwMinorVersion"}, 
+    {"name":"dwOSVersionInfoSize"}, 
+    {"name":"dwPlatformId"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.OSVERSIONINFOW",
+  "fields":[{"name":"szCSDVersion"}]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.STARTUPINFO",
+  "fields":[
+    {"name":"cb"}, 
+    {"name":"cbReserved2"}, 
+    {"name":"dwFillAttribute"}, 
+    {"name":"dwFlags"}, 
+    {"name":"dwX"}, 
+    {"name":"dwXCountChars"}, 
+    {"name":"dwXSize"}, 
+    {"name":"dwY"}, 
+    {"name":"dwYCountChars"}, 
+    {"name":"dwYSize"}, 
+    {"name":"hStdError"}, 
+    {"name":"hStdInput"}, 
+    {"name":"hStdOutput"}, 
+    {"name":"lpDesktop"}, 
+    {"name":"lpReserved"}, 
+    {"name":"lpReserved2"}, 
+    {"name":"lpTitle"}, 
+    {"name":"wShowWindow"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.internal.win32.WNDCLASS",
+  "fields":[
+    {"name":"cbClsExtra"}, 
+    {"name":"cbWndExtra"}, 
+    {"name":"hCursor"}, 
+    {"name":"hIcon"}, 
+    {"name":"hInstance"}, 
+    {"name":"hbrBackground"}, 
+    {"name":"lpfnWndProc"}, 
+    {"name":"lpszClassName"}, 
+    {"name":"lpszMenuName"}, 
+    {"name":"style"}
+  ]
+},
+{
+  "name":"org.eclipse.swt.widgets.Display",
+  "methods":[
+    {"name":"foregroundIdleProc","parameterTypes":["long","long","long"] }, 
+    {"name":"messageProc","parameterTypes":["long","long","long","long"] }, 
+    {"name":"msgFilterProc","parameterTypes":["long","long","long"] }, 
+    {"name":"windowProc","parameterTypes":["long","long","long","long"] }
+  ]
+}
+]

@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <h2 class="text-center">
+          Realtime Data Table
+        </h2>
+        <div class="col-md-7">
+          <button class="btn btn-danger" id="remove">
+            <i class="glyphicon glyphicon-remove"></i>
+          </button>
+          <table id="realtime" class="display" width="100%"></table>
+        </div>
+        <div class="col-md-4">
+          <table id="stats-table" class="display" width="100%"></table>      
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.js"></script>
+    <script src="https://js.pusher.com/4.1/pusher.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.10.15/api/row().show().js"></script>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

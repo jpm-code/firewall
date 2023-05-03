@@ -1,0 +1,69 @@
+﻿  mdb.c
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1437,11): warning C4047: 'function': 'LPSTR' differs in levels of indirection from 'char **'
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1437,9): warning C4024: 'FormatMessageA': different types for formal and actual parameter 5
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1458,12): warning C4101: 'p': unreferenced local variable
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1626,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1753,54): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1792,14): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1767,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1971,10): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(1903,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2164,4): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2605,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2606,50): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2979,29): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2980,34): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(2919,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3117,58): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3121,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3138,13): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3141,12): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3156,13): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3349,36): warning C4047: '=': 'size_t' differs in levels of indirection from 'uint64_t *'
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3440,9): warning C4267: '=': conversion from 'size_t' to 'off_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(3550,22): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4006,13): warning C4244: 'function': conversion from 'mdb_hash_t' to 'unsigned long', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4269,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4559,7): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4587,9): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4618,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4730,9): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4733,10): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4738,14): warning C4244: 'return': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(4764,20): warning C4244: 'return': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(5192,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(5200,9): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(5211,14): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(5212,15): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(5996,19): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6117,21): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6118,50): warning C4267: '=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6185,23): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6191,25): warning C4267: '=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6247,29): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6325,5): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6278,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6669,25): warning C4267: '-=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6709,21): warning C4267: '=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6717,33): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6720,3): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6722,3): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6682,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(6786,25): warning C4267: '+=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7144,23): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7246,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7865,27): warning C4267: '-=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7873,27): warning C4267: '-=': conversion from 'size_t' to 'indx_t', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7882,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(7884,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\mdb.c(8279,35): warning C4047: '=': 'size_t' differs in levels of indirection from 'uint64_t *'
+  midl.c
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\midl.c(43,18): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\midl.c(147,12): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\midl.c(177,29): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\x64\Release\lmdb.lib and object C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\x64\Release\lmdb.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lmdb.vcxproj -> C:\Users\jools\Downloads\lmdb-win32\lmdb-win32\libraries\liblmdb\x64\Release\lmdb.dll
