@@ -1,0 +1,12 @@
+bin/
+build/
+.gradle/
+github-release/
+bintray-release/
+release.sh
+
+.project
+.classpath
+.settings/
+
+*~
