@@ -1,0 +1,29 @@
+JToaster is a java utility class to show animated notification windows.
+
+JToaster was created by Daniele Piras and the main site for the project
+is:
+http://sourceforge.net/projects/jtoaster/
+
+JToaster is licensed under Apache License V2 (that is it include in this
+package)
+
+
+Simle example to use JToaster:
+
+package com.nitido.utils.toaster;
+
+public class Example
+{
+
+	/**
+	 * Simple Example...
+	 */
+	public static void main(String[] args)
+	{
+	 // create toaster manager
+     Toaster toasterManager = new Toaster();
+     // show a simple notification message.
+     toasterManager.showToaster( "Hello World!" );
+	}
+
+}
