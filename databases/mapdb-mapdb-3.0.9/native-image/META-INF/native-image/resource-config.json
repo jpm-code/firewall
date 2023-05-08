@@ -1,0 +1,7 @@
+{
+  "resources":{
+  "includes":[{
+      "pattern":"\\Qwin32/amd64/liblz4-java.so\\E"
+    }]},
+  "bundles":[]
+}
