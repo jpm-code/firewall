@@ -1,0 +1,54 @@
+ [21:31:34] udpCreated id=147 pid=4 local=192.168.56.255:138
+	Process: 
+
+ [21:31:34] udpCreated id=640 pid=4 local=172.20.10.7:49818
+	Process: 
+
+ [21:31:34] udpCreated id=656 pid=1772 local=[::1]:62918
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=658 pid=1772 local=127.0.0.1:62917
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=9153 pid=7844 local=[::1]:58754
+	Process: C:\Windows\System32\dasHost.exe
+
+ [21:31:34] udpCreated id=9156 pid=7844 local=127.0.0.1:58753
+	Process: C:\Windows\System32\dasHost.exe
+
+ [21:31:34] udpCreated id=9966 pid=4 local=172.20.10.15:138
+	Process: 
+
+ [21:31:34] udpCreated id=14321 pid=16396 local=172.20.10.7:55032
+	Process: C:\Program Files (x86)\ExpressVPN\services\lightway.exe
+
+ [21:31:34] udpCreated id=14330 pid=7844 local=[ff02::c]:3702
+	Process: C:\Windows\System32\dasHost.exe
+
+ [21:31:34] udpCreated id=14331 pid=1772 local=[ff02::c]:3702
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14332 pid=7844 local=239.255.255.250:3702
+	Process: C:\Windows\System32\dasHost.exe
+
+ [21:31:34] udpCreated id=14333 pid=1772 local=239.255.255.250:3702
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14342 pid=2536 local=224.0.0.251:5353
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14345 pid=5932 local=[::1]:49668
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14357 pid=5932 local=127.0.0.1:49672
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14358 pid=5932 local=239.255.255.250:1900
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=14363 pid=5932 local=[ff02::c]:1900
+	Process: C:\Windows\System32\svchost.exe
+
+ [21:31:34] udpCreated id=15215 pid=6400 local=0.0.0.0
+	Process: C:\Program Files (x86)\ExpressVPN\services\ExpressVPN.AppService.exe
+
