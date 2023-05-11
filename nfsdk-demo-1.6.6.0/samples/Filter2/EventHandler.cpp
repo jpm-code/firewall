@@ -2,6 +2,12 @@
 #include "Defines.h"
 #include "EventHandler.h"
 
+// Network processor dll includes - put in header?
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "LibNetworkProcessorWrapper.h"
+
 void EventHandler::threadStart()
 {
 	//printf("threadStart\n");
@@ -182,21 +188,40 @@ void EventHandler::udpSend(ENDPOINT_ID id, const unsigned char* remoteAddress, c
 	//
 	// Check for standard qurey and one domain, then parse
 	//
-	if (buf[2] == 0x01 && buf[3] == 0x00 && buf[4] == 0x00 && buf[5] == 0x01) {
+	int decision;
+	if ( buf[2] == 0x01 && buf[3] == 0x00 && buf[4] == 0x00 && buf[5] == 0x01 ) {
 
-		std::string domain = parse_dns_query_domain(buf, len);
+		std::string domain = parse_dns_query_domain( buf, len ) ;
 
-		logDomain("Domain: " + domain);
+		//logDomain( "Domain: " + domain ) ;
+
+
+		graal_isolate_t* isolate = NULL;
+		graal_isolatethread_t* thread = NULL;
+
+		if ( graal_create_isolate( NULL, &isolate, &thread ) != 0 ) {
+			fprintf( stderr, "initialization error\n" ) ;
+			exit( -1 ) ;
+		}
+
+		//char* str = "google.com";
+
+		decision = parse_dns_payload( thread, (char*)domain.c_str() ) ;
+
+
+
+		graal_tear_down_isolate( thread ) ;
+
 
 		// Parse string by semi-colon
-		std::string str = "ERRCODE3;mydomain.com";
+		/*std::string str = "ERRCODE3;mydomain.com";
 		std::istringstream iss(str);
 		std::string token;
 
 		while ( std::getline(iss, token, ';') ) {
 			// Do something with token
 		}
-
+		*/
 
 		//std::cout << "Domain: " << domain;
 		/*
@@ -218,7 +243,13 @@ void EventHandler::udpSend(ENDPOINT_ID id, const unsigned char* remoteAddress, c
 
 
 	// Send the packet to server
-	nf_udpPostSend( id, remoteAddress, buf, len, options	) ;
+	if ( decision == 0 ) {
+		nf_udpPostSend(id, remoteAddress, buf, len, options);
+	}
+	else {
+		// block packet
+		std::cout << "Blocked packet" << std::endl ;
+	}
 
 }
 

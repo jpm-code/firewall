@@ -245,9 +245,9 @@
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>nfapi.lib;ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>nfapi.lib;ws2_32.lib;LibNetworkProcessorWrapper.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <OutputFile>..\..\bin\$(Configuration)\$(Platform)\$(ProjectName).exe</OutputFile>
-      <AdditionalLibraryDirectories>..\..\lib\$(Configuration)\$(Platform);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>.\libs;..\..\lib\$(Configuration)\$(Platform);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
       <OptimizeReferences>true</OptimizeReferences>
@@ -413,6 +413,10 @@
     <ClInclude Include="Defines.h" />
     <ClInclude Include="dns.h" />
     <ClInclude Include="EventHandler.h" />
+    <ClInclude Include="graal_isolate.h" />
+    <ClInclude Include="graal_isolate_dynamic.h" />
+    <ClInclude Include="LibNetworkProcessorWrapper.h" />
+    <ClInclude Include="LibNetworkProcessorWrapper_dynamic.h" />
     <ClInclude Include="logger.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
