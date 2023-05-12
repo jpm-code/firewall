@@ -223,6 +223,21 @@ void EventHandler::udpSend(ENDPOINT_ID id, const unsigned char* remoteAddress, c
 		}
 		*/
 
+		/*
+		#include <string>
+		#include <sstream>
+		#include <vector>
+
+		std::string str = "ERRCODE3;mydomain.com";
+		std::istringstream iss(str);
+		std::string token;
+		std::vector<std::string> tokens;
+
+		while(std::getline(iss, token, ';')) {
+			tokens.push_back(token);
+		}
+		*/
+		
 		//std::cout << "Domain: " << domain;
 		/*
 		std::regex str_regex("google", std::regex_constants::icase);

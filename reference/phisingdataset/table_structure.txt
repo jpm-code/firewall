@@ -1,0 +1,11 @@
+--
+-- Table structure for table `index`
+--
+
+CREATE TABLE `index` (
+  `rec_id` int NOT NULL,
+  `url` text CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `website` varchar(50) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `result` int NOT NULL,
+  `created_date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8_unicode_ci;
