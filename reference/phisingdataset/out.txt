@@ -54,12 +54,12 @@ olimast.com, 1
 genius.com, 0
 www.akaipro.com, 0
 www.intserviy.it, 1
-www.glassdoor.com.au, 1613555694503998
+www.glassdoor.com.au, 0
 society-depart-recovery-identityy.co, 1
 www.washos.com, 0
 virginradio.co.uk, 0
 www.discovertz.com, 0
-secure.runascape.com-vz.ru, 972
+secure.runascape.com-vz.ru, 1
 deregister-unknown-onlineaccount.com, 1
 www.kik.com, 0
 clouddoc-authorize.firebaseapp.com, 1
@@ -77,7 +77,7 @@ www.allabouttabletennis.com, 0
 web-mail-upgrading-2028.000webhostapp.com, 1
 specializedautobrokers.com, 1
 www.youtube.com, 0
-hackipedia.org, 1635699667593861
+hackipedia.org, 0
 help.fitbit.com, 0
 wwwfbcomphotovideostatus.000webhostapp.com, 1
 myhowtosandprojects.blogspot.com, 0
@@ -395,7 +395,7 @@ www.hugedomains.com, 0
 submityoururl.com, 1
 www.pgatour.com, 0
 www.collisionbendbrewery.com, 0
-secure.runescape.com-ro.ru, 447
+secure.runescape.com-ro.ru, 1
 www.swap.com, 0
 www.edenphost.ca, 0
 www.texasmonthly.com, 0
@@ -758,7 +758,7 @@ www.fujitsu.com, 0
 www.fontspring.com, 0
 tdn.com, 0
 twitter.com, 0
-www.gemius.com, 1609089553537503
+www.gemius.com, 0
 adf.brisbanecatholic.org.au, 0
 www.techtarget.com, 0
 business.americanexpress.com, 0
@@ -1556,7 +1556,7 @@ virgin-personal-update.com, 1
 en-academic.com, 0
 alexmatthewstravels.com, 1
 www.olympiadhelper.com, 0
-www.glassdoor.co.uk, 26
+www.glassdoor.co.uk, 0
 moosend.com, 0
 www.indiedb.com, 0
 SolCazino.net, 1
@@ -1632,7 +1632,7 @@ www.kinopoisk.ru, 0
 manage.systempagesform-3387566181.1oxjkps3ah-yjr3oxzrm31m.p.runcloud.link, 1
 galaxyvipgrup999.se.ke, 1
 www.marriott.com, 0
-secure.runascape.com-va.ru, 697
+secure.runascape.com-va.ru, 1
 postacuteadvisor.blr.com, 0
 www.creativegateway.com.ph, 0
 en-academic.com, 0
@@ -1683,7 +1683,7 @@ itemss.otzo.com, 1
 twitter.com, 0
 getdocumentation.info, 0
 citabncr2021.com, 1
-www.tomshardware.com, 163570231969185
+www.tomshardware.com, 0
 whatsappgroupinvitejoinowgrup28.duckdns.org, 1
 ww25.routerloginsteps.com, 0
 www.jetquay.com.sg, 0
@@ -1887,7 +1887,7 @@ edzonmxg24.temp.swtest.ru, 1
 www.edgecast.com, 0
 gfgfgfggrgrrg.000webhostapp.com, 1
 priceless-gates-1d5f8c.netlify.app, 1
-www.tomsguide.com, 1635704788984269
+www.tomsguide.com, 0
 www.prospects.ac.uk, 0
 docs.google.com, 1
 sexphotos65.blogspot.com, 1
@@ -2302,7 +2302,7 @@ createdallgoodvision.000webhostapp.com, 1
 www.dictionary.com, 0
 techterms.com, 0
 www.getrael.com, 0
-www.glassdoor.com, 1635704728871565
+www.glassdoor.com, 0
 www.airportcodedb.com, 0
 www.ortvu.me, 1
 www.facebook.com, 0
@@ -2400,7 +2400,7 @@ www.passmark.com, 0
 mereliverystables.com, 1
 archive.eol.ucar.edu, 0
 www.blog.google, 0
-services.runescape.com-vzla.ru, 586
+services.runescape.com-vzla.ru, 1
 haloor872i.temp.swtest.ru, 1
 trinefinance.com, 0
 www.freebooknotes.com, 0
@@ -2956,7 +2956,7 @@ money.howstuffworks.com, 0
 brother-printersupportnumber.com, 1
 www.jobvertise.com, 0
 walkingdead.fandom.com, 0
-forum.nginx.org, 1635704897445077
+forum.nginx.org, 0
 www.walmart.com, 0
 lexit.com, 0
 fineststitch.com, 1
@@ -3135,7 +3135,7 @@ mrkalyan.com, 1
 en.wikipedia.org, 0
 en.wikipedia.org, 0
 www.addictinggames.com, 0
-www.kenstone.net, 44494
+www.kenstone.net, 0
 www.spigotmc.org, 0
 40.66.48.99, 1
 www.wtc.com, 0
@@ -3327,7 +3327,7 @@ www.remedyofembodiment.com, 0
 adultsearch.com, 0
 www.networkworld.com, 0
 wiki.laptop.org, 0
-www.glassdoor.com, 163571245571789
+www.glassdoor.com, 0
 www.facebook.com, 0
 www.lcfpd.org, 0
 topnews-eu.com, 1
@@ -3337,7 +3337,7 @@ wwbbnationarg.000webhostapp.com, 1
 www.techtarget.com, 0
 ww17.login-appleid.apple.com.alert-wode.com, 1
 mail.unifound.in, 1
-secure.oldschool.com-mn.ru, 973600
+secure.oldschool.com-mn.ru, 1
 www.wpbeginner.com, 0
 vieuxshack.com, 1
 skynet.joomla.com, 1
@@ -3465,7 +3465,7 @@ hub.opera.com, 0
 www.receptfritt-cialis.com, 1
 blog.whatsapp.com, 0
 elexbet166.com, 1
-www.glassdoor.com, 163570757301503
+www.glassdoor.com, 0
 promomotive.com, 0
 hamiltonquilting.com, 1
 www.skateboards.com, 0
@@ -3645,7 +3645,7 @@ www.webopedia.com, 0
 civiliansinconflict.org, 0
 www.oregonpacificrr.com, 0
 quizlet.com, 0
-secure.runascape.com-ro.ru, 647
+secure.runascape.com-ro.ru, 1
 winwiki.org, 0
 centuryfasteners.hirecentric.com, 0
 www.solutionfun.info, 1
@@ -5044,7 +5044,7 @@ linaguly.000webhostapp.com, 1
 kewhl.tripod.com, 0
 www.russtechmtisa.com, 0
 www.turkmcse.com, 1
-en.wikipedia.org, 1635711062431461
+en.wikipedia.org, 0
 www.imdb.com, 0
 kalayekhabeyas.ir, 1
 hk.linkedin.com, 0
@@ -5187,7 +5187,7 @@ guquanchina.com, 1
 www.nbc.ca, 0
 www.trekbikesvictoria.com, 0
 fatturazione.jdevcloud.com, 1
-secure.runascape.com-ro.ru, 628
+secure.runascape.com-ro.ru, 1
 ppc.kopiherba.com, 1
 www.nchannel.com, 0
 hautinard.kissr.com, 1
@@ -5551,7 +5551,7 @@ www.economist.com, 0
 dichvumuaban.vn, 1
 www.sciencedirect.com, 0
 www.mycobank.org, 0
-www.tomsguide.com, 1635710613488244
+www.tomsguide.com, 0
 admin-company-100000123459869581731.tk, 1
 www.howtogeek.com, 0
 doccomo.ne.eqat.xyz, 1
@@ -5609,7 +5609,7 @@ msdwt-k12-e.gq, 1
 www.cbsl.gov.lk, 0
 rusticscapes.com, 1
 www.thefreedictionary.com, 0
-services.runescape.com-ul.cc, 279
+services.runescape.com-ul.cc, 1
 seositecheckup.com, 0
 sucuri.net, 0
 www.hsparish.com, 0
@@ -6075,7 +6075,7 @@ campustoluca.uicui.edu.mx, 1
 cg05577.tmweb.ru, 1
 www.mprnews.org, 0
 purves-jcatkinson.co.uk, 1
-services.runascape.com-va.ru, 763
+services.runascape.com-va.ru, 1
 icloud.skydocu.com, 0
 www.wizardingworld.com, 0
 dgpack.ru, 0
@@ -6866,7 +6866,7 @@ liveyourbestlifelifestyle.com, 1
 itaulimite.com, 1
 kazanconservatoire.ru, 1
 techterms.com, 0
-juandapolanco.co, 1624897965542022
+juandapolanco.co, 1
 jxvcmfhkyvsofpfmjtldxzicpo-dot-project2-297402.rj.r.appspot.com, 1
 disneyscreencaps.com, 0
 rocherp796.wixsite.com, 1
@@ -7031,7 +7031,7 @@ storage.googleapis.com, 1
 payment.mpi.mb.ca, 0
 rmplusportal.rightmove.co.uk, 0
 hrsoftware.in.th, 1
-uk.fashionnetwork.com, 1608953031036178
+uk.fashionnetwork.com, 0
 www.submit-payee-online.com, 1
 hit.mcdir.ru, 1
 cheaproomsvalencia.com, 1
@@ -7186,10 +7186,10 @@ softspro.com, 1
 www.audiusa.com, 0
 it.textmaster.com, 0
 winefolly.com, 0
-secure.runescape.com-vzla.ru, 164
+secure.runescape.com-vzla.ru, 1
 www.wipo.int, 0
 data.nico.digital, 1
-services.runascape.com-vz.ru, 889
+services.runascape.com-vz.ru, 1
 www.vbulletin.com, 0
 en.wikipedia.org, 0
 www.zenstores.com, 0
@@ -7613,7 +7613,7 @@ wpengine.com, 0
 liquidoujunhos.com, 1
 www.webopedia.com, 0
 eafdc53b746abf12481bc3704f653e75-dot-gle9392420309493993.rj.r.appspot.com, 1
-secure.runascape.com-vc.ru, 541
+secure.runascape.com-vc.ru, 1
 usinger.serveftp.com, 1
 pubmed.ncbi.nlm.nih.gov, 0
 secure.anz.click, 1
@@ -7710,7 +7710,7 @@ qqdrrlzpqhrlespommutaagwox-dot-triple-upgrade-293822.rj.r.appspot.com, 1
 policy.pinterest.com, 0
 haileydemarrephotography.com, 1
 www.instructables.com, 0
-secure.runascape.com-ro.ru, 379
+secure.runascape.com-ro.ru, 1
 www.gettingstamped.com, 0
 www.chron.com, 0
 rogerhanley.com, 1
@@ -7923,7 +7923,7 @@ medium.com, 0
 forums.envato.com, 0
 www.fayettesweets.com, 0
 theyellowsparrow.com, 1
-www.interia.pl, 93943
+www.interia.pl, 0
 en-academic.com, 0
 www.medicalook.com, 0
 www.worleyscider.co.uk, 0
@@ -8023,7 +8023,7 @@ www.impactsigns.com, 0
 facebook-mobile-login.expertu.app, 1
 2628435-68384-dot-bles05.wn.r.appspot.com, 1
 mimspa.vn, 1
-www.glassdoor.com, 1635698486668919
+www.glassdoor.com, 0
 www.youtube.com, 0
 nhms.solutions, 1
 sabelotodo.tv, 1
@@ -8350,7 +8350,7 @@ anmedplus.by, 1
 137.135.122.221, 1
 www.dictionary.com, 0
 en.m.wikipedia.org, 0
-www.glassdoor.com, 1635704446837421
+www.glassdoor.com, 0
 grindtimegym.com, 1
 everydeal.com, 0
 apprenda.com, 0
@@ -8730,7 +8730,7 @@ www.accountingtools.com, 0
 technesisgwd.com, 0
 www.semprepresensecurity.com, 1
 en.wikipedia.org, 0
-www.newworldencyclopedia.org, 1635708608356418
+www.newworldencyclopedia.org, 0
 climatechbvba.be, 1
 colibanboxes.com.au, 1
 www.arcadiabackoffice.com, 0
@@ -8738,7 +8738,7 @@ www.taylorwessing.com, 0
 onlinelibrary.wiley.com, 0
 www.semanticscholar.org, 0
 wololo.net, 0
-secure.runescape.com-vzla.ru, 564
+secure.runescape.com-vzla.ru, 1
 wiki.gis.com, 0
 www.wine.com, 0
 www.express.co.uk, 0
@@ -8885,7 +8885,7 @@ zipbooks.com, 0
 aws.amazon.com, 0
 str.com, 0
 superuser.com, 0
-secure.runascape.com-ro.ru, 314
+secure.runascape.com-ro.ru, 1
 pubs.usgs.gov, 0
 client-webhook-dot-qp-keybank-rrva-2020-04.uc.r.appspot.com, 1
 pinnacleinspire.com, 1
@@ -9228,7 +9228,7 @@ computer.howstuffworks.com, 0
 ing-betaalnetwerk.live, 1
 minewhat.com, 0
 ozonizacija.ba, 1
-www.gisreportsonline.com, 2752
+www.gisreportsonline.com, 0
 gerrhrhtrjrt.000webhostapp.com, 1
 saldohojepresentecontigo.club, 1
 deviceverifying.com, 1
@@ -9430,7 +9430,7 @@ thethunderbrand.com, 1
 schools-wikipedia.org, 0
 www.magazine-agent.com, 0
 commerce.idaho.gov, 0
-secure.runascape.com-vz.ru, 631
+secure.runascape.com-vz.ru, 1
 currrntlyattt.weebly.com, 1
 secure.payee-hali.com, 1
 www.wsop.com, 0
@@ -10252,7 +10252,7 @@ www.driverscape.com, 0
 webmail-123reg.app.link, 1
 sklep100v.pl, 1
 clearwordstranslations.com, 0
-www.glassdoor.com, 1623154068050889
+www.glassdoor.com, 0
 baleshwerbabaonline.com, 1
 homamnajjar.com, 1
 prsupportsystem.com, 1
@@ -10422,7 +10422,7 @@ www.microstockgroup.com, 0
 deregisterdevices-access.com, 1
 www.tvguide.com, 0
 www.jrebel.com, 0
-secure.runescape.com-oc.ru, 971
+secure.runescape.com-oc.ru, 1
 toucharcade.com, 0
 en.wikipedia.org, 0
 redgorilla.red, 0
@@ -10491,7 +10491,7 @@ docs.google.com, 1
 www.pizzahut.com.cy, 0
 fast.fazer.com, 0
 littlefoots.ru, 1
-secure.runascape.com-vc.ru, 599
+secure.runascape.com-vc.ru, 1
 www.daftpunk.com, 0
 thecustomizewindows.com, 0
 bzexpert.com, 1
@@ -10595,11 +10595,11 @@ universal_en_ru.academic.ru, 0
 discover.hubpages.com, 0
 www.inspectapedia.com, 0
 howtowinterizeyourrv.com, 0
-secure.runascape.com-vc.ru, 418
+secure.runascape.com-vc.ru, 1
 zhanqi.tv.overviewstats.com, 0
 www.jpost.com, 0
 account-supportservice.000webhostapp.com, 1
-services.runescape.com-vzla.ru, 313
+services.runescape.com-vzla.ru, 1
 whatis.techtarget.com, 0
 www.sweetwater.com, 0
 aims.indianrailways.gov.in, 0
@@ -11230,7 +11230,7 @@ www.ecommunity.com, 0
 dpboss.sattamatka.wiki, 0
 za.pinterest.com, 0
 vodafone.bill2209.com, 1
-www.wildernet.com, 1635712336953465
+www.wildernet.com, 0
 marketplace.walmart.com, 0
 news.err.ee, 0
 hermes.help-track.com, 1
@@ -11690,7 +11690,7 @@ www.veilgarments.com, 0
 skepticalinquirer.org, 0
 www.professormesser.com, 0
 www.5gamericas.org, 0
-secure.runescape.com-vzla.ru, 636
+secure.runescape.com-vzla.ru, 1
 daviddesign.se, 0
 pay.duowan.com, 0
 www.strath.ac.uk, 0
@@ -11939,7 +11939,7 @@ doryu.ca, 0
 apps.nextcloud.com, 0
 www.aoamzon-bb.shop, 1
 www.ambitionbox.com, 0
-secure.runescape.com-oc.ru, 499
+secure.runescape.com-oc.ru, 1
 advonationusa.com, 1
 rickgraynlp.com, 1
 newdevice-notice.cc, 1
@@ -12022,7 +12022,7 @@ www.verify-secure-now.me, 1
 www.thefreedictionary.com, 0
 telshelaoujse.bounceme.net, 1
 arnaozn.flqbs.com, 1
-en.wikibooks.org, 163570033446449
+en.wikibooks.org, 0
 www.hackedonlinegames.com, 0
 www.tripadvisor.com.my, 0
 arsalanconstructioncompany.com, 1
@@ -12107,7 +12107,7 @@ ofertas-de-natal.com, 1
 www.voicesonic.com, 0
 andypfvk704blog.total-blog.com, 0
 www.groovypost.com, 0
-service-online-signin.from-or.com, 0
+service-online-signin.from-or.com, 1
 www.seatmaestro.com, 0
 www.bristol.anglican.org, 0
 aixcloudhost.com, 1
@@ -12888,7 +12888,7 @@ removepayee-natwestbanking.com, 1
 correctchecks.net.siteindices.com, 0
 www.transunion.ca, 0
 howitfix.com, 1
-www.edu-total.com, 10003706
+www.edu-total.com, 1
 www.amazon.com, 0
 www.reddit.com, 0
 www-degelyehuda-org-il.filesusr.com, 1
@@ -13862,7 +13862,7 @@ sterlinx.com, 1
 aronmco.brev4u.cn, 1
 www.youtube.com, 0
 vieuxshack.com, 1
-secure.runascape.com-vz.ru, 561
+secure.runascape.com-vz.ru, 1
 jppost-te.top, 1
 www.kidschoiceawards.com, 0
 kreiskassenverband15643.xyz, 1
@@ -13992,7 +13992,7 @@ loginwill.com, 0
 mail.verification-coupon.com, 1
 account.avast.com, 0
 aceproject.org, 0
-en.wikipedia.org, 1635713779163655
+en.wikipedia.org, 0
 journals.lww.com, 0
 smbc.commonpoint-henkuo.me, 1
 www10.somente-aqui-voce-e-feliz.com, 1
@@ -14024,7 +14024,7 @@ en.wikipedia.org, 0
 successaddictrealhomes.com.ng, 1
 mercuryas.co.za, 1
 www.wordle.net, 0
-secure.runescape.com-oc.ru, 311
+secure.runescape.com-oc.ru, 1
 www.zebrakeys.com, 0
 registrodatosserverbn.com, 1
 en-academic.com, 0
@@ -14321,7 +14321,7 @@ app.heroicnow.com, 0
 logos.fandom.com, 0
 www.goodwordguide.com, 0
 www.vodafone.co.uk, 0
-www.vaisala.com, 1635713205715845
+www.vaisala.com, 0
 www.paypal.letima.de, 1
 orange728.yolasite.com, 1
 sindikatizvrsnihsluzbi.com, 1
@@ -14714,7 +14714,7 @@ discover.hubpages.com, 0
 en.wikipedia.org, 0
 tinuiti.com, 0
 csct.edu.lk, 0
-secure.runascape.com-vz.ru, 252
+secure.runascape.com-vz.ru, 1
 fbookcom-ogvnyohf.xpertzgroup.com, 1
 www.flsenate.gov, 0
 www.trendmicro.com, 0
@@ -15323,7 +15323,7 @@ www.technics.com, 0
 standbyyoucoaching.com, 1
 www.bigoven.com, 0
 www.desjardinsagents.com, 0
-hackipedia.org, 1635712689291292
+hackipedia.org, 0
 www.amazon-dzc.shop, 1
 eroom.stylemixthemes.com, 1
 en-academic.com, 0
@@ -16224,7 +16224,7 @@ developers.google.com, 0
 zaborkursk.ru, 1
 acquire.io, 0
 yuk.joingruptante.duckdns.org, 1
-www.glassdoor.com, 1635699330277766
+www.glassdoor.com, 0
 dry.sailingissues.com, 0
 cdek.vscriptstest.ru, 1
 helpdeskgeek.com, 0
@@ -16658,7 +16658,7 @@ www.live-score-app.com, 0
 www.allegro-bi.com, 0
 go.euromonitor.com, 0
 www.marketingprofs.com, 0
-services.runescape.com-mv.ru, 167
+services.runescape.com-mv.ru, 1
 www.homechef.com, 0
 www.newworldencyclopedia.org, 0
 viveromonteverde.com, 1
@@ -17016,7 +17016,7 @@ www.imdb.com, 0
 www.alexryder.com, 0
 return31.com, 1
 updatepayee-lloyds.com, 1
-fr.glassdoor.be, 1635698857899965
+fr.glassdoor.be, 0
 gizmodo.com, 0
 cyberarms.wordpress.com, 0
 mammygroup.com, 1
@@ -17339,7 +17339,7 @@ www.si.com, 0
 www.checkinsecurityltau.com, 1
 electrictoolbox.com, 0
 thatsmint.work, 1
-services.runescape.com-oc.ru, 262
+services.runescape.com-oc.ru, 1
 grosirbasarta.com, 1
 punnetthomes.com, 1
 www.manageengine.com, 0
@@ -18515,7 +18515,7 @@ prezi.com, 0
 grandbetting.guncelgir.com, 1
 help.issuu.com, 0
 en-academic.com, 0
-www.glassdoor.com, 1635710210143587
+www.glassdoor.com, 0
 microsoft-admin.dns.army, 1
 www.rankpay.com, 0
 eebillinginfoupdate.com, 1
@@ -18618,7 +18618,7 @@ offapp36.oa.r.appspot.com, 1
 pingan-us.com, 0
 firebasestorage.googleapis.com, 1
 definitions.uslegal.com, 0
-en.wikipedia.org, 1635707003356121
+en.wikipedia.org, 0
 simple.wikipedia.org, 0
 aol-login1.godaddysites.com, 1
 docs.google.com, 1
@@ -18746,7 +18746,7 @@ www.onlinedailys.com, 0
 www.mother.ly, 0
 acrobat.adobe.com, 0
 birdx.lk, 1
-services.runescape.com-vzla.ru, 722
+services.runescape.com-vzla.ru, 1
 www.hotpay.co, 0
 u1121816912.ha004.t.justns.ru, 1
 office365.auto1.casb.beta.forcepointgov.com, 1
@@ -19129,7 +19129,7 @@ securemanage-help.com, 1
 camerontrophies.co.uk, 0
 link-grup-bokep-indo-hot89.duckdns.org, 1
 takatsuking.tumblr.com, 0
-www.sofmilitary.co.uk, 1635708024550044
+www.sofmilitary.co.uk, 0
 www.crn.com, 0
 cepam.med.br, 1
 homenacionban.000webhostapp.com, 1
@@ -19144,7 +19144,7 @@ taxopus.com, 1
 registrar.washington.edu, 0
 www.realcleardefense.com, 0
 www.indeed.com, 0
-services.runescape.com-ro.ru, 135
+services.runescape.com-ro.ru, 1
 www.jaysuntravels.com, 1
 blog.insta360.com, 0
 www.haas.berkeley.edu, 0
@@ -19582,7 +19582,7 @@ www.oklahomabaptists.org, 0
 bgeynoncaused.com, 1
 producer.imglobal.com, 0
 www.motorcyclespecs.co.za, 0
-www.glassdoor.com, 1635713653589824
+www.glassdoor.com, 0
 m-wtcsucu1.streamsteam.ca, 1
 confrmacount.000webhostapp.com, 1
 bit-pay.ru, 1
@@ -20360,7 +20360,7 @@ en.wikiquote.org, 0
 schupaneamc.org, 1
 gaws30.webwave.me, 1
 builtwith.com, 0
-www.glassdoor.com, 1635704728734153
+www.glassdoor.com, 0
 onlinebna.000webhostapp.com, 1
 www.ubank.com.au, 0
 decor-art.sk, 1
@@ -20510,7 +20510,7 @@ mobilegendsevent.duckdns.org, 1
 www.bestfreecams.club, 0
 atlasmarazambia.com, 0
 wvk12-my.sharepoint.com, 1
-services.runescape.com-vzla.ru, 472
+services.runescape.com-vzla.ru, 1
 all3dp.com, 0
 gooyaabitemplates.com, 0
 etrgyt5675.s3.ap-south-1.amazonaws.com, 1
@@ -20527,7 +20527,7 @@ en.wikipedia.org, 0
 blog.edisonnation.com, 0
 ph.banggood.com, 0
 severalnines.com, 0
-www.glassdoor.com, 1635706203868357
+www.glassdoor.com, 0
 forums.redflagdeals.com, 0
 www.vbtutor.net, 0
 payee-stop-update.com, 1
@@ -20990,7 +20990,7 @@ smcc-coo.occc.buzz, 1
 www.clickerheroes.com, 0
 photo-collage.net, 0
 analysistabs.com, 0
-www.glassdoor.com, 1635702638620209
+www.glassdoor.com, 0
 cs-help.wish.com, 0
 ziesumpscholless.cocolog-nifty.com, 0
 lingojam.com, 0
@@ -21112,7 +21112,7 @@ www.songcastmusic.com, 0
 www.huronnationalbank.com, 0
 www.heavymetal.com, 0
 www.citigroupsmy.com, 1
-www.bookrix.com, 163569830731339
+www.bookrix.com, 0
 bukharaissaquah.com, 1
 mnsglobal.ge, 1
 lloyd-securebank.com, 1
@@ -21291,7 +21291,7 @@ fossbytes.com, 0
 www.shockdoctorsports.eu, 0
 www.movenpick.com, 0
 www.gettingout.com, 0
-www.glassdoor.com, 1635711892915363
+www.glassdoor.com, 0
 www.activisionblizzard.com, 0
 www.killerspin.com, 0
 goatmilkstuff.com, 0
@@ -21550,7 +21550,7 @@ irbis.pushkinlibrary.kz, 1
 howtodelete.co, 0
 newgarena-events-ff-17.duckdns.org, 1
 www.definitions.net, 0
-services.runescape.com-oc.ru, 648
+services.runescape.com-oc.ru, 1
 shareit.didacte.com, 0
 www.spectrum.net, 0
 www.findingbuyerstraining.com, 1
@@ -21561,7 +21561,7 @@ www.emathzone.com, 0
 www.urbandictionary.com, 0
 makeitbritish.co.uk, 0
 www.galleriahernandez.com, 0
-services.runescape.com-tp.ru, 167
+services.runescape.com-tp.ru, 1
 goodboys01.com, 1
 iddressmanagementpanel.yolasite.com, 1
 www.viator.com, 0
@@ -21751,7 +21751,7 @@ my.usgs.gov, 0
 galiconlineservic.zapto.org, 1
 dailyanswers.net, 0
 isitoktocode.com, 0
-www.edu-total.com, 10003712
+www.edu-total.com, 1
 www.thewindowsclub.com, 0
 www.thinkwiki.org, 0
 www.haitiansupport.org, 0
@@ -21855,7 +21855,7 @@ www.smartbrief.com, 0
 storage.googleapis.com, 1
 www.philedmonds.com, 0
 mail.payee-online-security.net, 1
-en.wikipedia.org, 1635711364462073
+en.wikipedia.org, 0
 outravantagem.com, 1
 facebookpost-2981256826.afristream.tv, 1
 mail.lloyds-sec.com, 1
@@ -22063,7 +22063,7 @@ icscards-clientarea.web6551.web07.bero-webspace.de, 1
 www.fujitsu.com, 0
 semefo4487.typeform.com, 1
 old-antiek.ru, 1
-www.computerwoche.de, 2
+www.computerwoche.de, 0
 www.scribd.com, 0
 evolvednovelties.zendesk.com, 0
 donslan.com, 1
@@ -22107,7 +22107,7 @@ thegioisport.com, 1
 www.myhermes.co.uk, 0
 mymp3remix.in, 1
 puntoitech.com, 1
-www.dmv.ca.gov, 1635698277275491
+www.dmv.ca.gov, 0
 www.soundhound.com, 0
 www.securebanking.barclaysus.com, 0
 inventorycsgo.fun, 1
@@ -22324,7 +22324,7 @@ www.sqlite.org, 0
 view.genial.ly, 1
 serviceaccount.bounceme.net, 1
 www.capitolconcierge.com, 0
-www.tomshardware.com, 1635702719890493
+www.tomshardware.com, 0
 srv88660.ht-test.ru, 1
 norecipes.com, 0
 bugmenot.com, 0
@@ -22402,7 +22402,7 @@ education.alaska.gov, 0
 remycare.com, 1
 security-securepasse.duckdns.org, 1
 www.walmart.com, 0
-en.wikipedia.org, 1635713682986422
+en.wikipedia.org, 0
 account-khjw.center-amazon.co, 1
 kashmir-packages.com, 1
 meticulousmedical.com, 1
@@ -22486,7 +22486,7 @@ philipbegel.com, 0
 bazaar.culturalsurvival.org, 0
 www.honor-cafe.com, 0
 www.mobilipartners.com, 0
-services.runescape.com-oc.ru, 768
+services.runescape.com-oc.ru, 1
 help.yahoo.com, 0
 www.khaldea.com, 0
 www.yourdictionary.com, 0
@@ -22909,7 +22909,7 @@ www.thoughtco.com, 0
 tv.netapp.com, 0
 toyota.custhelp.com, 0
 templates.office.com, 0
-www.glassdoor.com.hk, 1609480753856981
+www.glassdoor.com.hk, 0
 www.kurashi.tepco.co-jp.saknfenfrb.club, 1
 saldaoobahianinho.com, 1
 doccomo.ne.uqzy.xyz, 1
@@ -23157,7 +23157,7 @@ www.vmware.com, 0
 www.buddytv.com, 0
 www.sites-plus.com, 0
 a0435684.xsph.ru, 1
-secure.runescape.com-vzla.ru, 529
+secure.runescape.com-vzla.ru, 1
 en.wikipedia.org, 0
 maxsimon.io, 1
 blog.psprint.com, 0
@@ -23407,7 +23407,7 @@ www.dailymusicsheets.com, 0
 engineering.fb.com, 0
 www.hugedomains.com, 0
 www.madrivervalley.com, 0
-forum.doozan.com, 1635699217537298
+forum.doozan.com, 0
 www.grunge.com, 0
 mensajeriagestionar.com.ar, 1
 www.indusind.com, 0
@@ -23636,7 +23636,7 @@ www.westchesterlibraryassociation.org, 0
 www.britishgas.co.uk, 0
 www.fponthenet.net, 0
 www.7uqgi0l.cn, 1
-hwaddress.com, 1635698979222267
+hwaddress.com, 0
 playarprint.com, 1
 www.thefreedictionary.com, 0
 habitsofperformance.info, 1
@@ -23658,7 +23658,7 @@ www.facebook.com, 0
 acceptnewfbrules.com, 1
 view.fdlheatpumps.co.uk, 1
 www.marketlinks.org, 0
-services.runascape.com-vc.ru, 482
+services.runascape.com-vc.ru, 1
 www.irs.gov, 0
 stearncommunytiy.ru, 1
 www.city-data.com, 0
@@ -24513,7 +24513,7 @@ dofehillary.org.nz, 0
 www.pickmyrouter.com, 0
 membership.auth64e34aa9d32c53a4d69f1netflix.com, 1
 minhait.000webhostapp.com, 1
-news.cision.com, 1635744338488329
+news.cision.com, 0
 dota2-world.com, 1
 naruto.oasgames.com, 0
 kfbiggy.ml, 1
@@ -24547,7 +24547,7 @@ hadiahayooz.myz.info, 1
 birdersdiary.com, 0
 buildfire.com, 0
 www.tricitymed.org, 0
-www.glassdoor.com, 1635702529345962
+www.glassdoor.com, 0
 digitalwoodproducts.com, 1
 giftcardrescue.com, 0
 www.facebook.com, 0
@@ -24734,7 +24734,7 @@ www.services.runescape.com-nm.ru, 1
 www.se.com, 0
 www.prcboardnews.com, 0
 madefortwo.com, 1
-secure.runascape.com-vc.ru, 664
+secure.runascape.com-vc.ru, 1
 amcontabilidade.co, 1
 elysiumpost.com, 0
 www.computerhope.com, 0
@@ -24833,7 +24833,7 @@ www.esportsguide.com, 0
 www.allegrobusinessproducts.com, 0
 www.cocosenor.com, 0
 www.amnesiagame.com, 0
-www.glassdoor.com, 1635705421599517
+www.glassdoor.com, 0
 www.servo.org.br, 1
 snapchat.acccccount.com, 1
 www.britishairways.com, 0
@@ -24987,7 +24987,7 @@ www.swathestore.com, 0
 www.schwarzkopf-professionalusa.com, 0
 en-academic.com, 0
 www.livescore.com, 0
-roblox.fandom.com, 1608949779159291
+roblox.fandom.com, 0
 searchunifiedcommunications.techtarget.com, 0
 jalopnik.com, 0
 www.slideserve.com, 0
@@ -25760,7 +25760,7 @@ u10999364xq.ha004.t.justns.ru, 1
 www.androidpolice.com, 0
 remote-blog.xyz, 1
 urlz.fr, 1
-www.tomshardware.com, 1635708690970654
+www.tomshardware.com, 0
 www.ebay.com, 0
 whatis.techtarget.com, 0
 canberracampervanhire.com.au, 1
@@ -25784,7 +25784,7 @@ uskudar.forkliftkiralama.web.tr, 1
 unix.stackexchange.com, 0
 glareomar.net, 1
 careerlifeblend.info, 1
-en.wikipedia.org, 1635702002263592
+en.wikipedia.org, 0
 bndsvr.tk, 1
 en.wikipedia.org, 0
 www.howtogeek.com, 0
@@ -26245,7 +26245,7 @@ lostallhope.com, 0
 www.ikea.com, 0
 whatisdbms.com, 0
 www.yelp.com, 0
-secure.runascape.com-vc.ru, 753
+secure.runascape.com-vc.ru, 1
 en.wikibooks.org, 0
 nursejournal.org, 0
 steroidpharm.en.ecplaza.net, 0
@@ -27353,7 +27353,7 @@ www.clearlakebank.bank, 0
 lonosoneteams.blogspot.com, 1
 invest.jalisco.gob.mx, 1
 amazon-japan.cc, 1
-secure.runascape.com-vz.ru, 363
+secure.runascape.com-vz.ru, 1
 hoysalacreations.com, 1
 ladycavendishdiary.com, 1
 splash-laundromatlv.com, 1
@@ -27793,7 +27793,7 @@ www.eatout.co.za, 0
 www.aol.com, 0
 www.healthguidance.org, 0
 expressjs.com, 0
-secure.runescape.com-vc.ru, 993
+secure.runescape.com-vc.ru, 1
 www.quayaustralia.com.au, 0
 www.discoverthedinosaurs.com, 0
 admin-company-100000123459869581735.tk, 1
@@ -27846,7 +27846,7 @@ www.blenderboyz.com, 0
 printerstudent.com, 1
 hamt.jp, 1
 stayfuse.com, 1
-cryptoinz.eu, 1625499432719627
+cryptoinz.eu, 1
 cristinamambrini.com.br, 1
 datacadamia.com, 0
 regpayee-lb.com, 1
@@ -27947,7 +27947,7 @@ dhresourcesforprojectbuilding.pbworks.com, 0
 omtimes.com, 0
 www.wildwestdomains.com, 0
 www.xe.com, 0
-www.glassdoor.com, 1635707911327972
+www.glassdoor.com, 0
 esmosa3625.temp.swtest.ru, 1
 e.huawei.com, 0
 www.continental-industry.com, 0
@@ -28825,9 +28825,9 @@ www.oberlo.com, 0
 consent.youtube.com, 0
 www.youtube.com, 0
 www.onetonline.org, 0
-www.glassdoor.sg, 43
+www.glassdoor.sg, 0
 seguroseubeneficioeresgate.club, 1
-services.runascape.com-ro.ru, 115
+services.runascape.com-ro.ru, 1
 everything.explained.today, 0
 www.gamesgames.com, 0
 daretolead.brenebrown.com, 0
@@ -29398,7 +29398,7 @@ free-fireegg.duckdns.org, 1
 www.tenews.org.ua, 1
 www.sailingtexas.com, 0
 clifton.stewswines.com, 0
-secure.oldschool.com-ty.ru, 827677676
+secure.oldschool.com-ty.ru, 1
 blog.hootsuite.com, 0
 www.iqfilms.com, 1
 en.wikipedia.org, 0
@@ -30005,7 +30005,7 @@ www.bgpetroleumsarl.com, 1
 www.cainsballroom.com, 0
 www.secure.payee-hali.com, 1
 www.aon.com, 0
-services.runescape.rs-te.xyz, 607
+services.runescape.rs-te.xyz, 1
 www.dell.com, 0
 usbank-link-mupyndtfft---com.illmickelsonbeats.com, 1
 www.myvoipprovider.com, 0
@@ -30928,7 +30928,7 @@ kaltech.co.il, 0
 www.theblondeabroad.com, 0
 insaafenterprisesinc.com, 1
 ffxiv.consolegameswiki.com, 0
-40.124.128.28, 10002740
+40.124.128.28, 1
 slideplayer.com, 0
 playarprint.com, 1
 bcpzonasegurabeta.viabcp.com.pe.mypioneer.in, 1
@@ -31065,7 +31065,7 @@ blmm-conference.com, 0
 dvcx.whm-login.duncanwierman.com, 1
 orange-pro68.yolasite.com, 1
 www.mufg.epos-card.co, 1
-services.runescape.com-oc.ru, 648
+services.runescape.com-oc.ru, 1
 nodered.org, 0
 thetopratedquadcopters.com, 1
 webhome.auburn.edu, 0
@@ -31110,7 +31110,7 @@ www.scribd.com, 0
 blog.pcrisk.com, 0
 octave.org, 0
 tapbox.ca, 1
-services.runescape.com-tp.ru, 167
+services.runescape.com-tp.ru, 1
 www.krogerkrazy.com, 0
 www.rakuten.c0.jp4.4efa7aed1eaefc9b1ac18e.xyz, 1
 www.dhlesgmarketing.com, 1
@@ -31328,7 +31328,7 @@ www.gourmetgiftbaskets.com, 0
 shopping.naver.com, 0
 www.asla.org, 0
 www.quora.com, 0
-secure.runascape.com-vc.ru, 625
+secure.runascape.com-vc.ru, 1
 www.comptonproducts.net, 0
 www.easemytrip.com, 0
 www.softsea.com, 0
@@ -32823,7 +32823,7 @@ genius.com, 0
 en.wikibooks.org, 0
 www.lazada.sg, 0
 docs.microsoft.com, 0
-secure.oldschool.com-mn.ru, 401456
+secure.oldschool.com-mn.ru, 1
 windmillrice.com, 0
 www.walmart.com, 0
 www.creditcardinsider.com, 0
@@ -33017,7 +33017,7 @@ suspectregular.com, 1
 www.yourchords.com, 0
 bankofamerica-logins.dns05.com, 1
 www.zeiglerfordesp.com, 0
-www.careerbuilder.com, 1613580383792095
+www.careerbuilder.com, 0
 www.melissapolska.com, 1
 www.britannica.com, 0
 soshastudio.ir, 1
@@ -33134,7 +33134,7 @@ polskapoczta.dostawa-orders.casa, 1
 congxephanoi.com, 1
 meu-itaunet4-sempre-com-voce-nesse-momento.000webhostapp.com, 1
 poppy.be, 0
-www.glassdoor.com, 1635705645244419
+www.glassdoor.com, 0
 vanpower.cloudaccess.host, 1
 www.manning.com, 0
 markets.ft.com, 0
@@ -33241,7 +33241,7 @@ forums.pokemontcg.com, 0
 cancelnewdevice-pairing.com, 1
 mycoerver.es, 1
 www.easytechjunkie.com, 0
-services.runescape.com-ro.ru, 885
+services.runescape.com-ro.ru, 1
 marinaabramson.com, 1
 www.ebi.ac.uk, 0
 thenextgalaxy.com, 0
@@ -34367,7 +34367,7 @@ www.discogs.com, 0
 cr.mufg.ckxotc.com, 1
 smartbear.com, 0
 www.inkworldmagazine.com, 0
-www.tomshardware.com, 1635712453312983
+www.tomshardware.com, 0
 www.itvdictionary.com, 0
 store.nintendo.com, 0
 arsisproducciones.com, 1
@@ -34495,7 +34495,7 @@ www.sa.gov.au, 0
 paket-dhl.free-h.net, 1
 www.lyricsreg.com, 0
 www.sparkasse.de, 0
-www.tomshardware.com, 1635706117636655
+www.tomshardware.com, 0
 sicher-weiterleitung-sparkasse-online.xyz, 1
 www.sharkwater.com, 0
 smbc-banki.fghjftc.tokyo, 1
@@ -35075,7 +35075,7 @@ www.doctorfox.co.uk, 0
 accountamazoassistance.com, 1
 en.softonic.com, 0
 www.mybeckman.ru, 0
-services.runescape.com-fn.ru, 167
+services.runescape.com-fn.ru, 1
 elinux.org, 0
 paypalticket58331.info, 1
 00pichs.uk.com, 1
@@ -35222,7 +35222,7 @@ www.register.be, 0
 reklamaction.com, 0
 nos-comptes.myddns.me, 1
 instagramaccountprotection.com, 1
-en.wikipedia.org, 1635709418104431
+en.wikipedia.org, 0
 www.aol.com, 0
 gsi.berkeley.edu, 0
 ca.shop.onswitchboard.com, 0
@@ -35487,7 +35487,7 @@ www.activerentall.ca, 0
 www.interiordesignshop.net, 0
 www.bedpage.com, 0
 zadi.me, 1
-www.wikiwand.com, 1635707553375863
+www.wikiwand.com, 0
 oweboutlloks.ey.r.appspot.com, 1
 myluckx.cf, 1
 twitter.com, 0
@@ -35712,7 +35712,7 @@ www.justyou.co.uk, 0
 www.dll-files.com, 0
 www.zuora.com, 0
 www.koin.com, 0
-gjilan.al, 4
+gjilan.al, 1
 turkmcse.com, 1
 www.ww2germandaggers.com, 0
 help.ticketmaster.fr, 0
@@ -36502,7 +36502,7 @@ www.dbs.com.sg, 0
 yahoopasswordvsupport.freshdesk.com, 0
 en-academic.com, 0
 www.onlinelinguisticdatabase.org, 0
-www.glassdoor.com, 1607250478447039
+www.glassdoor.com, 0
 desk-net.com, 0
 wiki.mozilla.org, 0
 www.bitmat.it, 0
@@ -37276,7 +37276,6 @@ www.inst.org, 0
 shop.billboard.com, 0
 wmich.edu, 0
 content-fbook-88647868.roggiehouse.it, 1
-handaksnews.blogspot.com, 0
 www.texasholdemradio.com, 0
 www.theintelligencer.net, 0
 www.zoom.us, 0
@@ -37337,7 +37336,7 @@ www.floweraura.com, 0
 www.smeet.com, 0
 kakakakaka-986ff.ts.r.appspot.com, 1
 www.wonderful-gould.46-20-34-168.plesk.page, 1
-pomoc.poczta.interia.pl, 2136252
+pomoc.poczta.interia.pl, 0
 panchkarmaagra.in, 1
 quipercaso.it, 1
 www.webappsec.org, 0
@@ -37374,7 +37373,7 @@ fountainofhope.com, 1
 kb.sitecore.net, 0
 ksk-kundenbanken-service.de, 1
 confirmatlon-pages-fb.blogspot.com, 1
-www.glassdoor.com, 1635705072515969
+www.glassdoor.com, 0
 fr-postalecompte.com, 1
 spaggdesign.com.br, 1
 download.cnet.com, 0
@@ -37664,7 +37663,7 @@ musictheory.pugetsound.edu, 0
 mysports.lk, 0
 promocao-oboticario.web.app, 1
 www.rottentomatoes.com, 0
-clientderet-com.umbler.net, 53
+clientderet-com.umbler.net, 1
 www.tuxgraphics.org, 0
 betasus20213.blogspot.com, 1
 www.slideserve.com, 0
@@ -37688,7 +37687,7 @@ www.facebook.com, 0
 www.wpbeginner.com, 0
 www.ibm.com, 0
 www.olivevideoeditor.org, 0
-services.runescape.com-vzla.ru, 511
+services.runescape.com-vzla.ru, 1
 www.amanabank.lk, 0
 ru.wikipedia.org, 0
 everything.explained.today, 0
@@ -38120,7 +38119,7 @@ www.extremetech.com, 0
 www.mirror.co.uk, 0
 txt2re.com, 0
 mjaymup1bhk1mtr0aa.filesusr.com, 1
-archive.anarchy-online.com, 1025
+archive.anarchy-online.com, 0
 www.spacesynth.net, 0
 documentation.logmein.com, 0
 templatelab.com, 0
@@ -38150,7 +38149,7 @@ playoverwatch.com, 0
 buildevolution.online, 1
 netflix-update-billing-ssid81723.sa76da.info, 1
 www.photometer.com, 0
-www.exmormon.org, 277006
+www.exmormon.org, 0
 www.comparehero.my, 0
 www.dictionarist.com, 0
 helpinglnstagram.000webhostapp.com, 1
@@ -38271,7 +38270,7 @@ www.thehealthboard.com, 0
 mclaren-al.cf, 1
 spongboobs.com, 1
 secure.mypepsico.com, 0
-secure.runascape.com-vz.ru, 391
+secure.runascape.com-vz.ru, 1
 www.binglee.com.au, 0
 pantydeal.com, 0
 www.hmfusa.com, 0
@@ -38398,7 +38397,7 @@ clouddoc-authorize.firebaseapp.com, 1
 pedalpgh.org, 0
 www.nokiantyres.com, 0
 twitter.com, 0
-secure.runescape.com-vzla.ru, 413
+secure.runescape.com-vzla.ru, 1
 www.brazzersex.net, 0
 draftin.com, 0
 sophiatolika.gr, 1
@@ -38528,7 +38527,7 @@ www.buzzle.com, 0
 en.wikipedia.org, 0
 www.delivery.com, 0
 www.internetsociety.org, 0
-en.wikipedia.org, 1635710217209934
+en.wikipedia.org, 0
 mykidcraft.com, 0
 bells-website.yolasite.com, 1
 www.iarpa.gov, 0
@@ -38837,7 +38836,7 @@ en.wikipedia.org, 0
 toggl.com, 0
 sendmail.aldo007.com, 1
 www.vogfarma.com.br, 1
-news.cision.com, 1609484259578493
+news.cision.com, 0
 orders.confidentcannabis.com, 0
 www.aimersoft.com, 0
 cse.umn.edu, 0
@@ -38988,7 +38987,7 @@ www.hotelopia.com, 0
 www.newworldencyclopedia.org, 0
 sobaby.co, 1
 jbqgdrmegycncaha-dot-mandax.oa.r.appspot.com, 1
-services.runescape.com-vzla.ru, 883
+services.runescape.com-vzla.ru, 1
 u1121816912.ha004.t.justns.ru, 1
 www.annalsofpsychotherapy.com, 0
 api.cam4.com, 0
@@ -38997,7 +38996,7 @@ www.math.umd.edu, 0
 phys.org, 0
 www.hopeamplified.org.uk, 0
 www.dealerrater.com, 0
-services.runescape.com-vzla.ru, 564
+services.runescape.com-vzla.ru, 1
 frank-kasinos.mobi, 1
 xnxxinfoo.duckdns.org, 1
 putlocker.jouwweb.nl, 0
@@ -39564,7 +39563,7 @@ topline.co.ke, 1
 www.zonasegur1bnwebenlinea.com, 1
 www.practicefusion.com, 0
 yle-news.com, 1
-www.tomshardware.com, 1635702754662039
+www.tomshardware.com, 0
 www.webmd.com, 0
 40.82.179.174, 1
 teaching.washington.edu, 0
@@ -40270,7 +40269,7 @@ www.info.secure-new-login.com, 1
 www.pandora.com, 0
 www.amazon.com, 0
 advonationusa.com, 1
-secure.runescape.com-oc.ru, 973
+secure.runescape.com-oc.ru, 1
 halifax-online.login-secure-verify.com, 1
 www.pinnaclecart.com, 0
 abyssbyabby.com, 0
@@ -40638,7 +40637,7 @@ chiefsfoundation.org, 0
 infopersonel.serveftp.com, 1
 monscouts.org.uk, 0
 twowheelcool.com, 1
-commons.wikimedia.org, 1635707554642522
+commons.wikimedia.org, 0
 banjir.net, 1
 www.businessbroker.net, 0
 www.instructables.com, 0
@@ -40915,7 +40914,7 @@ the-mask.fandom.com, 0
 paypal-secure.redirectme.net, 1
 helloramadan.com, 1
 www.webopedia.com, 0
-www.tomsguide.com, 1635703832525379
+www.tomsguide.com, 0
 www.securityauth-cancelpayment.com, 1
 agligator.ru, 0
 moatia.com, 1
@@ -41817,7 +41816,7 @@ www.reverent-matsumoto.46-20-34-168.plesk.page, 1
 onewaybaitulloh.id, 1
 blog.spkwilcz.pl, 1
 www.digitalcurrent.com, 0
-secure.runescape.com-accountsecurity.cz, 934
+secure.runescape.com-accountsecurity.cz, 1
 webapps.stackexchange.com, 0
 cloudwars.co, 0
 www.movieinsider.com, 0
@@ -42730,8 +42729,7 @@ www.virtusa.com, 0
 bao-tic.com, 1
 pendriveapps.com, 0
 www.youtube.com, 0
-secure.runescape.com-accountsecurity.cz, 251
-voterapp.jamaat.org, 1
+secure.runescape.com-accountsecurity.cz, 1
 www.totalswindon.com, 0
 eclecticstate.com, 1
 www.thehumansolution.com, 0
@@ -42888,7 +42886,7 @@ www.pcmag.com, 0
 www.securityonlinebank.com, 0
 www.juliengoldstein.com, 0
 www.amazon.com, 0
-biznes.interia.pl, 125893
+biznes.interia.pl, 0
 resourcefulbusiness.com, 0
 www.reddit.com, 0
 xn--twtter-q9a.app, 1
@@ -43379,7 +43377,7 @@ secure-mttbanklog.duckdns.org, 1
 www.science20.com, 0
 www.merriam-webster.com, 0
 vasisrestaurant.co.uk, 1
-services.runescape.com-tp.ru, 167
+services.runescape.com-tp.ru, 1
 amazoazm.co.jp.mastercardnortniahnewestphalialauasi01.ga, 1
 86589.weebly.com, 1
 www.dinersclubus.com, 0
@@ -44498,7 +44496,7 @@ www.jcpenney.com, 0
 sign-in-box.com, 0
 quizlet.com, 0
 lloydsbank.secure-payee-request.com, 1
-texomacc-authnengine-1.ml, 0
+texomacc-authnengine-1.ml, 1
 bmsro.eu, 1
 www.schematics.com, 0
 docs.google.com, 1
@@ -44568,7 +44566,7 @@ www.orangebank.fr, 0
 www.depicus.com, 0
 roxborogh.com, 0
 annzon-ehsngki-co-jp.sbzyvum.top, 1
-secure.runescape.com-oc.ru, 256
+secure.runescape.com-oc.ru, 1
 www.amazon.com, 0
 en.wikipedia.org, 0
 adioma.com, 0
@@ -44645,7 +44643,7 @@ www.ibm.com, 0
 tencomputer.com, 0
 ups-update.weebly.com, 1
 www.verify-new-transaction.com, 1
-services.runescape.com-vzla.ru, 675
+services.runescape.com-vzla.ru, 1
 www.townandcountrymag.com, 0
 threekings.in, 1
 www.itaucheckersecurity.com, 1
@@ -45479,7 +45477,7 @@ zydeko.hu, 1
 www.techonthenet.com, 0
 driftspots.com, 0
 landmarkglobal.com, 0
-service-online-signin.from-ia.com, 0
+service-online-signin.from-ia.com, 1
 guestrescue.com, 1
 www.soundonsound.com, 0
 nymag.com, 0
@@ -45929,7 +45927,7 @@ irap.org, 0
 www.un.org, 0
 www.finalsurge.com, 0
 www.definitions.net, 0
-acumularpontos202.myddns.me, 3
+acumularpontos202.myddns.me, 1
 www.gardeningknowhow.com, 0
 mail.ajktour.com, 1
 dbs-alertsreport.com, 1
@@ -46070,7 +46068,7 @@ www.kayak.com, 0
 www.mintmusic.co.uk, 0
 grubbokepindohost.duckdns.org, 1
 bio.akkerman.club, 1
-www.printergrafpublicidad.com, 16
+www.printergrafpublicidad.com, 1
 my.bluehost.com.cded3aaf29d4f966ac4207eeaa15dcfc.savary.cc, 1
 cavalry.vn, 1
 www.antiessays.com, 0
@@ -46442,7 +46440,7 @@ selfservice.adb.org, 0
 onlineslangdictionary.com, 0
 calculator-1.com, 0
 www.luxuryrestaurantawards.com, 0
-en.wikipedia.org, 163570380458707
+en.wikipedia.org, 0
 redline-software.com, 0
 serimalepon.com, 1
 aws.amazon.com, 0
@@ -46745,7 +46743,7 @@ www.learnrobotics.org, 0
 francesclancy.com, 0
 www.all-service-musical.com, 0
 www.tomsguide.com, 0
-www.livejournal.com, 100
+www.livejournal.com, 0
 www.britannica.com, 0
 mespontosemdobroevoce.club, 1
 www.airconditioner.com, 0
@@ -46809,7 +46807,7 @@ www.govinfo.gov, 0
 rujwalarcswsgr.org, 1
 www.nihlinknya.duckdns.org, 1
 www.horze.eu, 0
-maxhealth-org.ml, 0
+maxhealth-org.ml, 1
 peringatanfb0651.webnode.com, 1
 www.kellyservices.com, 0
 billing.secure-verify-account.cc, 1
@@ -47161,7 +47159,7 @@ normalization.3utilities.com, 1
 msonearquitetura.com.br, 1
 lifestyle.tlc.com.au, 0
 elastic-jones.198-144-190-113.plesk.page, 1
-services.runescape.com-ro.ru, 477
+services.runescape.com-ro.ru, 1
 shop.foxnews.com, 0
 userservice06b.dynamic-dns.net, 1
 error-removal-ibeneficiary.com, 1
@@ -47415,7 +47413,7 @@ www.explainthatstuff.com, 0
 gbatemp.net, 0
 geekyjuice.com, 1
 lycomfg.com, 0
-www.glassdoor.com, 1635711667977686
+www.glassdoor.com, 0
 zen-mayer.109-71-253-24.plesk.page, 1
 takelessons.com, 0
 www.vaporizerwizard.com, 0
@@ -47519,7 +47517,7 @@ www.lyricsmania.com, 0
 join-groupbokep18.vizvaz.com, 1
 lienthong.vn, 1
 telasroca.com, 1
-services.runescape.com-vzla.ru, 634
+services.runescape.com-vzla.ru, 1
 thyasd.com, 1
 www.foodprocessing.com, 0
 www.commbank.com.au, 0
@@ -47977,7 +47975,7 @@ flushedaway.fandom.com, 0
 signin1.bt.com, 0
 yddovxqngkrnigyrmganpmfisu-dot-gleow23456788988878.ts.r.appspot.com, 1
 hood.ae, 1
-secure.runescape.com-oc.ru, 626
+secure.runescape.com-oc.ru, 1
 www.secure-deviceslink.co.uk, 1
 sahrana.shop, 1
 jet-spin.com, 1
@@ -48576,7 +48574,7 @@ messagerie-vocale213.yolasite.com, 1
 thesaurus.yourdictionary.com, 0
 onlinemschool.com, 0
 aqueous.mobi, 0
-www.glassdoor.com, 28
+www.glassdoor.com, 0
 www.thedigitallandscaping.com, 0
 www.freeworkathomeguide.com, 0
 mail.lemonyellowsun.com, 1
@@ -48818,7 +48816,7 @@ www.espn.in, 0
 ir.yandex, 0
 www.linksys.com, 0
 sunday.love, 0
-secure.runascape.com-va.ru, 288
+secure.runascape.com-va.ru, 1
 www.thefreedictionary.com, 0
 lifehacker.com, 0
 www.repairwin.com, 0
@@ -49261,7 +49259,7 @@ community.bt.com, 0
 subscribe.subsexpirentflx.com, 1
 www.myfoammattress.net, 0
 www.judithrapley.com, 0
-www.foxnews.com, 21
+www.foxnews.com, 0
 primary-sources.eui.eu, 0
 www.thaiio.com, 0
 www.migros.com.tr, 0
@@ -49512,7 +49510,7 @@ netflixupdate2021.news, 1
 royalcitysax.com, 0
 www.securitymagazine.com, 0
 neilpatel.com, 0
-vim.fandom.com, 1635698745086586
+vim.fandom.com, 0
 dmall.com.br, 1
 retail.economictimes.indiatimes.com, 0
 chasebank.ru, 1
@@ -49933,7 +49931,7 @@ www.discounttiredirect.com, 0
 linuxgift.com, 1
 en.help.roblox.com, 0
 www.wikitree.com, 0
-www.glassdoor.com, 1635705297663261
+www.glassdoor.com, 0
 www.instructables.com, 0
 194.76.227.129, 1
 bebegimlebuyuyorum.blog, 1
@@ -50010,7 +50008,7 @@ www.gpp.com.hk, 0
 maf2019.ucsd.edu, 0
 www.wirebuzz.com, 0
 office365voicemessage-releasemessage-messagelistenvoicemessagex.s3.eu-de.cloud-object-storage.appdomain.cloud, 1
-www.glassdoor.com, 163570046006142
+www.glassdoor.com, 0
 www.peoplesbancorp.com, 0
 instagramhelpp.agency, 1
 laredoute.knoji.com, 0
@@ -50506,7 +50504,7 @@ www.ciscopress.com, 0
 jetspin.com, 1
 www.gamekidgame.com, 0
 www.faqoverflow.com, 0
-www.macwelt.de, 161354012632055
+www.macwelt.de, 0
 www.developer.com, 0
 www.michalkaszczyszyn.com, 0
 fujifilm-x.com, 0
@@ -51134,7 +51132,7 @@ floridaslawoffice.com, 1
 printerstudent.com, 1
 www.unicef.org, 0
 www.nvidia.com, 0
-services.runescape.com-vzla.ru, 994
+services.runescape.com-vzla.ru, 1
 www.wikiwand.com, 0
 plus.lefigaro.fr, 0
 labanquepostalefrlabanquepostalewebhost.com, 1
@@ -51610,7 +51608,7 @@ adobe-maxhealth-auths.ml, 1
 www.crazypellas.net, 0
 developer.mozilla.org, 0
 wised-exhibit.000webhostapp.com, 1
-secure-personal-account.from-ky.com, 0
+secure-personal-account.from-ky.com, 1
 www.accountingexplanation.com, 0
 en.wikibooks.org, 0
 www.webdevelopersnotes.com, 0
@@ -52202,7 +52200,7 @@ www.bahiavendasrapida.com, 1
 www.girlsgogames.com, 0
 www.amazon.com, 0
 www.enotes.com, 0
-economia.estadao.com.br, 70003509612
+economia.estadao.com.br, 0
 javarevisited.blogspot.com, 0
 azure.microsoft.com, 0
 www.jonasson.org, 0
@@ -52882,7 +52880,7 @@ sg3plvwcpnl422883.prod.sin3.secureserver.net, 1
 www.thefreedictionary.com, 0
 eshop.macsales.com, 0
 genius.com, 0
-www.fortbraggsurplus.us, 1635712080324695
+www.fortbraggsurplus.us, 0
 forwarddilemma.com, 1
 gev.com, 0
 docs.oracle.com, 0
@@ -53064,7 +53062,7 @@ www.cinemablend.com, 0
 www.barkhosting.com, 0
 invitegroupwhatsapp-berbagibirahi.onedumb.com, 1
 mobysign.com, 0
-services.runescape.com-mv.ru, 754
+services.runescape.com-mv.ru, 1
 www.internationalstudent.com, 0
 www.credit-agricole.fr, 0
 clientaccess.rjf.com, 0
@@ -53238,7 +53236,7 @@ www.quora.com, 0
 healthresearchfunding.org, 0
 accounts.google.com, 0
 activationservicespostal.is-not-certified.com, 1
-en.wikipedia.org, 1635710839578974
+en.wikipedia.org, 0
 eccles.utah.edu, 0
 www.crcento.it, 0
 gamefaqs.gamespot.com, 0
@@ -53376,7 +53374,7 @@ jm.scotiabank.com, 0
 www.indeed.com, 0
 www.voipoffice.ru, 0
 www.abplasticsurgery.org, 0
-www.tomsguide.com, 1635713991262508
+www.tomsguide.com, 0
 mx4uk.com, 1
 www.goldencirclecu.com, 0
 discountcode.express.co.uk, 0
@@ -53486,7 +53484,7 @@ www.videojet.com, 0
 scblueprintproperties.com, 1
 venturegroupit.com, 1
 veiwsnet.cacock.cn, 1
-en.wikipedia.org, 163570018165534
+en.wikipedia.org, 0
 www.teenslush.com, 0
 www.tptelecom.it, 1
 www.tcogroup.com, 0
@@ -54122,7 +54120,7 @@ kewalrambaboo.000webhostapp.com, 1
 ulgm.org, 0
 www.glossy.co, 0
 beneficiary-cancel.com, 1
-services.runescape.com-vzla.ru, 586
+services.runescape.com-vzla.ru, 1
 www.merriam-webster.com, 0
 bewidogchile.cl, 1
 robotic-tide-275809.el.r.appspot.com, 1
@@ -54517,7 +54515,7 @@ vector.me, 0
 glockapps.com, 0
 www.app-payeesecurity-support.com, 1
 olmstedtownship.org, 0
-weather.interia.com, 2041978
+weather.interia.com, 0
 churrascariameinhaus.com.br, 1
 en.wikipedia.org, 0
 flight-evolved.com, 0
@@ -54581,7 +54579,7 @@ hemasticcbren.com, 1
 www.doxo.com, 0
 security.berkeley.edu, 0
 gtnnllc.com, 1
-secure.runascape.com-vz.ru, 139
+secure.runascape.com-vz.ru, 1
 drcorreamejoresimplantes.com, 1
 snde-caeb.com.ogllvqo.cn, 1
 dns-amazon.4ting.top, 1
@@ -54870,7 +54868,7 @@ mabanque.bnpparibas, 0
 www.ajar.id, 0
 myanimelist.net, 0
 www.reddit.com, 0
-services.runascape.com-vc.ru, 356
+services.runascape.com-vc.ru, 1
 www.gadgetsnow.com, 0
 www.otisfcu.coop, 0
 mediacomcc.custhelp.com, 0
@@ -55078,7 +55076,7 @@ secure.login.aliexpress.com.coin-balance.com, 1
 fontawesome.com, 0
 www.softwareadvice.com, 0
 emeritus.org, 0
-acumularpontos202.myddns.me, 8
+acumularpontos202.myddns.me, 1
 rakuten.co.jp.rrakkuttenvip.xyz, 1
 passengermusic.com, 0
 www.crazygames.com, 0
@@ -55936,7 +55934,7 @@ www.facebook.com, 0
 www.yelp.com, 0
 meraki.cisco.com, 0
 teacupaudio.com, 1
-www.tomshardware.com, 1609099296318428
+www.tomshardware.com, 0
 strato.de-login-to-renew.iyogaspace.net, 1
 www.servo.org.br, 1
 docomno.isjp.xyz, 1
@@ -56629,7 +56627,7 @@ regencymovies.com, 0
 www.realitykings.com, 0
 thetenaciousten.com, 0
 aurapropaganda.com, 1
-services.runescape.com-vzla.ru, 133
+services.runescape.com-vzla.ru, 1
 www.liveabout.com, 0
 www.harryanddavid.com, 0
 clientsupportinglinec.com, 1
@@ -56783,9 +56781,9 @@ www.independent.co.uk, 0
 gizmodo.com, 0
 www.tollgatemedicalcentre.nhs.uk, 0
 www.allianz.lk, 0
-en.wikipedia.org, 1635708786811356
+en.wikipedia.org, 0
 sto.fandom.com, 0
-secure.runascape.com-va.ru, 914
+secure.runascape.com-va.ru, 1
 musicianswantedtoronto.ca, 0
 gesundheitarosa.ch, 1
 sntinternational.co.in, 1
@@ -57037,7 +57035,7 @@ www.youtube.com, 0
 www.tampaairport.com, 0
 blog.snappa.com, 0
 anapen.ie, 1
-www.google.com, 7
+www.google.com, 0
 www.davidhernandezministries.com, 0
 theassayoffice.com, 0
 www.mtv.com, 0
@@ -58648,7 +58646,7 @@ www.interactivebrokers.com, 0
 cityoutlet.es, 1
 www.helpguide.org, 0
 www.zillow.com, 0
-www.glassdoor.ie, 10
+www.glassdoor.ie, 0
 security-securepasse.duckdns.org, 1
 inxy.hosting, 0
 femhcuxeuwmujdnpzxdfqafwaittdqusrxkf-dot-gl494903049.wl.r.appspot.com, 1
@@ -59152,7 +59150,7 @@ www.sgh.com.sg, 0
 www.ekwb.com, 0
 support.sleepcycle.com, 0
 www.labradorretrieverguide.com, 0
-www.glassdoor.com, 1635698946759275
+www.glassdoor.com, 0
 autenticasuporte-appitacardrevalidacao-052020.sa-east-1.elasticbeanstalk.com, 1
 dnessasynergy.com.ng, 1
 www.mirc.com, 0
@@ -59201,7 +59199,7 @@ institutokultur.org.br, 1
 selecthealth.org, 0
 kravmagabarueri.com.br, 1
 www.parliament.lk, 0
-services.runescape.rs-dd.xyz, 607
+services.runescape.rs-dd.xyz, 1
 onlinenatw.com, 1
 www.whois.com, 0
 time.com, 0
@@ -59553,7 +59551,7 @@ archives.ccsparis.com, 1
 gabunggrubvideoviralindoterbaru.duckdns.org, 1
 www.explainthatstuff.com, 0
 www.novotelottawa.com, 0
-services.runescape.com-vzla.ru, 573
+services.runescape.com-vzla.ru, 1
 0987890.weebly.com, 1
 www.fasteners.eu, 0
 switchboard.live, 0
@@ -59822,7 +59820,7 @@ www.colonialpest.com, 0
 myeeonlinelogin.com, 1
 www.convinceandconvert.com, 0
 www.thepriceiswight.co.uk, 0
-services.runescape.com-vc.ru, 124
+services.runescape.com-vc.ru, 1
 www.slowlinebag.jp, 1
 itcard2.digital, 1
 www.flickr.com, 0
@@ -59947,7 +59945,7 @@ www.501st.com, 0
 www.xvideos.com, 0
 www.dictionary.com, 0
 www.countrywalkers.com, 0
-services.runescape.com-vzla.ru, 133
+services.runescape.com-vzla.ru, 1
 tubemate-youtube-downloader.en.uptodown.com, 0
 www.sparkfun.com, 0
 www.tsmplug.com, 0
@@ -60211,7 +60209,7 @@ thevpn.guru, 0
 www.regmovies.com, 0
 www.equicty.com, 0
 www.mysanantonio.com, 0
-en.wikibooks.org, 163571329623316
+en.wikibooks.org, 0
 duongngan.com, 1
 stackoverflow.com, 0
 www.pagina7.cl, 0
@@ -60384,7 +60382,7 @@ secure-online-payment.com, 1
 sirma.ae, 1
 searchsqlserver.techtarget.com, 0
 tpsservices.runescape.com-n.ru, 1
-icons8.de, 1607714690818771
+icons8.de, 0
 vieuxshack.com, 1
 www.crittercatchersinc.com, 0
 www.linkedin.com, 0
@@ -60762,7 +60760,7 @@ www.vh1.com, 0
 www.mysql.com, 0
 www.huawei.com, 0
 www.myqnapcloud.com, 0
-www.tomsguide.com, 1635701849992192
+www.tomsguide.com, 0
 a0435684.xsph.ru, 1
 c-j-partners.com, 1
 smaabc.co.x8h1n7wq.cc, 1
@@ -60980,7 +60978,7 @@ hali.alert-secureonline.com, 1
 www.seagm.com, 0
 www.quora.com, 0
 www.aalfin.com, 1
-services.runescape.com-vzla.ru, 925
+services.runescape.com-vzla.ru, 1
 www.lloydbanking-securehelp.com, 1
 www.iit.ac.lk, 0
 betcupgirisadresimiz.blogspot.com, 1
@@ -61651,7 +61649,7 @@ www.ccleaner.com, 0
 en.citizendium.org, 0
 tutorial45.com, 0
 www.indyracingexperience.com, 0
-www.tomshardware.com, 1635699823542024
+www.tomshardware.com, 0
 realjock.com, 0
 feffeefggggg.000webhostapp.com, 1
 defensecommunities.org, 0
@@ -61826,7 +61824,7 @@ api.saisoncard.com.vcxsd.xyz, 1
 www.manager-magazin.de, 0
 www.lincoln.gov.uk, 0
 tips4pc.com, 0
-www.tecchannel.de, 1613517022931198
+www.tecchannel.de, 0
 www.youtube.com, 0
 www.hugedomains.com, 0
 forums.somethingawful.com, 0
@@ -62610,7 +62608,7 @@ www.dailyrecord.co.uk, 0
 www.swift.com, 0
 www.acquiring.com, 0
 seminarnuclear.com, 1
-secure.oldschool.com-mn.ru, 738829
+secure.oldschool.com-mn.ru, 1
 www.hbossecurity.uk, 1
 www.denverpost.com, 0
 shop.shakespearesglobe.com, 0
@@ -62885,7 +62883,7 @@ www.autoweek.com, 0
 www.go-ferry.com, 0
 3dprinting.com, 0
 polskapoczta.ploferta365.xyz, 1
-www.grapevinejobs.com.au, 1635702966734894
+www.grapevinejobs.com.au, 0
 www.bestbuy.com, 0
 playarprint.com, 1
 invitegroupwhatsapp-berbagivideoseru.onedumb.com, 1
@@ -63529,7 +63527,7 @@ en-academic.com, 0
 lloyds-sec.com, 1
 xitsolutions.net, 1
 www.naijaolofofo.com, 0
-www.3bscientific.com, 1613522670438599
+www.3bscientific.com, 0
 in.finance.yahoo.com, 0
 instagram.xn--ehitaileleredestekvakf-7ld59h.com, 1
 www.cfinotebook.net, 0
@@ -64702,7 +64700,7 @@ iptvtalk.org, 0
 homegoodswholesalers.com, 1
 peds-ortho.com, 1
 app-digitalparavoce.com, 1
-www.glassdoor.com, 163570383541114
+www.glassdoor.com, 0
 community.spiceworks.com, 0
 bleacherreport.com, 0
 aptekindo.com, 1
@@ -65082,7 +65080,7 @@ hali-reviewpayee.link, 1
 www.argusmedia.com, 0
 adobe-online-storage.azurewebsites.net, 1
 mjaymu1hetezmtj0aa.filesusr.com, 1
-secure.runascape.com-vz.ru, 827
+secure.runascape.com-vz.ru, 1
 www.christinacreates.com, 1
 i.materialise.com, 0
 en.marketplacebr.com.br, 0
@@ -65120,7 +65118,7 @@ android.stackexchange.com, 0
 www.corneyandbarrow.com, 0
 www.algebralab.org, 0
 duplomat.com, 1
-secure.runascape.com-vc.ru, 311
+secure.runascape.com-vc.ru, 1
 www.yourdictionary.com, 0
 www.pitneybowes.com, 0
 www.youtube.com, 0
@@ -65137,7 +65135,7 @@ lnterlbanlklogin.reliablestormshelters.com, 1
 smartbear.com, 0
 pointspointers.com, 0
 53securelog.cloudns.cl, 1
-store.ussailing.org, 1635702859835864
+store.ussailing.org, 0
 www.iproperty.com.sg, 0
 en.citizendium.org, 0
 facebookappealcase17747412444.web.app, 1
@@ -65658,7 +65656,7 @@ www.guardianpays.com, 0
 sixnations-c.gq, 1
 www.freeonlinegames.com, 0
 longhorn.ms, 0
-en.wikipedia.org, 1635698650464605
+en.wikipedia.org, 0
 webmailsorange.wixsite.com, 1
 smartmco.com, 1
 retina.elpais.com, 0
@@ -65812,7 +65810,7 @@ highfills.com, 0
 www.magicbricks.com, 0
 grgtrhtrhtrhtr.000webhostapp.com, 1
 www.airbnbforwork.com, 0
-services.runescape.com-ro.ru, 186
+services.runescape.com-ro.ru, 1
 abtloman.com, 1
 www.psxhax.com, 0
 topup.orange.com, 0
@@ -65855,7 +65853,7 @@ educacion.rionegro.gov.ar, 1
 goodlogo.com, 0
 elaudo.agr.br, 1
 gamblingcompliance.com, 0
-www.glassdoor.com, 1635706013111149
+www.glassdoor.com, 0
 ru.wikipedia.org, 0
 www.techopedia.com, 0
 www.heartland.edu, 0
@@ -67332,7 +67330,7 @@ hepsibahis.guncelgir.com, 1
 coupons.businessinsider.com, 0
 www.pcmag.com, 0
 rogerhanley.com, 1
-secure.runascape.com-vz.ru, 224
+secure.runascape.com-vz.ru, 1
 www.stats.govt.nz, 0
 www.laforgiamarineo.com, 1
 jneurodevdisorders.biomedcentral.com, 0
@@ -67384,7 +67382,7 @@ docs.oracle.com, 0
 www.asda.com, 0
 www.mytiethervveallet.com, 1
 www.elasticpath.com, 0
-secure.runascape.com-vz.ru, 286
+secure.runascape.com-vz.ru, 1
 www.cwgc.org, 0
 www.re-registered-device-uk.com, 1
 www.churchillsecurity.co.uk, 0
@@ -67822,7 +67820,7 @@ www.citi.com, 0
 www.informit.com, 0
 loghomesnetwork.com, 1
 worldrewards1.com, 1
-www.glassdoor.com, 1635708692549461
+www.glassdoor.com, 0
 www.quora.com, 0
 account-bill.com, 1
 cityofniceville.org, 0
@@ -68132,7 +68130,7 @@ www.fortfs.com, 0
 23513a15-e131-4aad-8f3a-03ec677e4b31.id.repl.co, 1
 www.advantagenissan.com, 0
 en-academic.com, 0
-www.glassdoor.com, 1635703606440583
+www.glassdoor.com, 0
 forums.welltrainedmind.com, 0
 www.flvto.biz, 0
 forum.manager.io, 0
@@ -68793,7 +68791,7 @@ www.juniper.net, 0
 www.taylorjames.com, 0
 thenounproject.com, 0
 www.istockphoto.com, 0
-secure.runascape.com-vc.ru, 765
+secure.runascape.com-vc.ru, 1
 hhhhh.godaddysites.com, 1
 www.its.cz, 0
 secure-direct345.duckdns.org, 1
@@ -68930,7 +68928,7 @@ www.fanshawec.ca, 0
 secure-signin.link, 1
 iskraprzysietnica.pl, 1
 tardis.fandom.com, 0
-secure.runascape.com-ro.ru, 242
+secure.runascape.com-ro.ru, 1
 www.igcsebusiness.co.uk, 0
 www.americanprogress.org, 0
 reverent-matsumoto.172-245-8-169.plesk.page, 1
@@ -69019,7 +69017,7 @@ ecustompaperz.co.uk, 1
 www.acusocietyma.org, 0
 www.letterofcredit.biz, 0
 posmanager.ecobank.group, 1
-services.runescape.com-vzla.ru, 824
+services.runescape.com-vzla.ru, 1
 www.lumeradiamonds.com, 0
 docs.google.com, 1
 www.123helpme.com, 0
@@ -69104,7 +69102,7 @@ viveromonteverde.com, 1
 www.e-mjm.org, 0
 www.thecampusdigital.com, 0
 221.150.115.216, 1
-www.imdb.com, 1635744329675545
+www.imdb.com, 0
 globalpropulsionservice.com, 0
 housinganywhere.com, 0
 www.recoverandroid-data.com, 0
@@ -69449,7 +69447,7 @@ newsheater.com, 0
 www.edureka.co, 0
 kvoa.com, 0
 www.eminentpay.com, 0
-www.glassdoor.ca, 24
+www.glassdoor.ca, 0
 t-me.myshopify.com, 0
 www.van-damme.com, 0
 www.thefreedictionary.com, 0
@@ -69794,7 +69792,7 @@ donrobertojewelers.com, 0
 attdg.weebly.com, 1
 www.stylecreep.com, 0
 www.question-defense.com, 0
-en.wikipedia.org, 1635698580277587
+en.wikipedia.org, 0
 fegrgrhtht67.000webhostapp.com, 1
 www.anchoraudio.com, 0
 kb.restaurantengine.com, 0
@@ -69830,7 +69828,7 @@ www.fao.org, 0
 www.tumblr.com, 0
 register-payees-online.com, 1
 www.thewindowsclub.com, 0
-secure.runescape.com-oc.ru, 532
+secure.runescape.com-oc.ru, 1
 thinkexist.com, 0
 www.emkgha.cn, 1
 zzmqouiz.com, 1
@@ -70147,7 +70145,7 @@ doccomo.ne.uqag.xyz, 1
 www.drivetrain.com, 0
 quizlet.com, 0
 wordpress.org, 0
-ru.wikipedia.org, 1635713584552514
+ru.wikipedia.org, 0
 adele.uxpin.com, 0
 my.jcb.qiduqi.top, 1
 www.sport.es, 0
@@ -70618,7 +70616,7 @@ www.tristancap.com, 0
 help.oxfordonlinepractice.com, 0
 smbc.co.jp.bxlrdnq.cn, 1
 smbc-cacd.ksyao.com, 1
-sudantribune.com, 1613555550345134
+sudantribune.com, 0
 business.adobe.com, 0
 www.compasscbl.org.uk, 0
 thecorrectinsult.com, 0
@@ -70685,7 +70683,7 @@ princess.disney.com, 0
 updatedcredentials-newee.com, 1
 live-microsoft.dns.army, 1
 carlaspearls.com, 0
-www.glassdoor.com, 1635710843535027
+www.glassdoor.com, 0
 hafezmusic.ir, 1
 www.powershow.com, 0
 damseguridad.cl, 1
@@ -70904,7 +70902,7 @@ www.colorado.edu, 0
 www.tiendeo.us, 0
 mcintoshtransforms.com, 0
 en.softonic.com, 0
-letsplay.live, 1613525869971649
+letsplay.live, 0
 www.awwwards.com, 0
 www.amozan-ds.shop, 1
 www.football365.com, 0
@@ -71364,7 +71362,7 @@ wds-logistic.com, 1
 halifax-registration-payee.com, 1
 www.aimsciences.org, 0
 grubjoun.duckdns.org, 1
-secure.runescape.com-vc.ru, 484
+secure.runescape.com-vc.ru, 1
 banksifsccode.com, 0
 braindri.ipower.com, 0
 grp01.id.rakuten.co.jp.e167ad9c8d860bfe30379839a759c1415cbc56c5.info, 1
@@ -72001,7 +71999,7 @@ www.collisionking.com, 0
 www.dictionary.com, 0
 m.servlces.runescape.com-mv.ru, 1
 www.tesvolt.com, 0
-worlddata.ai, 1609094595730351
+worlddata.ai, 0
 www.foxrentacar.com, 0
 investors.autozone.com, 0
 zimatm.ir, 1
@@ -72189,7 +72187,7 @@ amazon.force.com, 0
 password-shaming.tumblr.com, 0
 www.iekeuroteam.gr, 1
 werk.re, 0
-www.glassdoor.sg, 36
+www.glassdoor.sg, 0
 lloydsbank.online-secure-payee-advanced-security.com, 1
 zesr-yuuossee3.cloudaccess.host, 1
 marrinx.de, 1
@@ -72456,7 +72454,7 @@ nuovaversionesicurezze.com, 1
 www.barelylegal.com, 0
 doapositioning.com, 1
 www.hmgranada.com, 1
-secure.runascape.com-vz.ru, 934
+secure.runascape.com-vz.ru, 1
 www.microbiologybook.org, 0
 secure-payeemanage.com, 1
 www.fresh-login.com, 0
@@ -72843,7 +72841,7 @@ estudio33.cl, 0
 gapinc.taleo.net, 0
 www.irchelp.org, 0
 www.tabletennis11.com, 0
-en.wikipedia.org, 1635712182411838
+en.wikipedia.org, 0
 virtuala.be, 1
 www.gotomeeting.com, 0
 jamesclear.com, 0
@@ -73155,7 +73153,7 @@ www.amazon-wd.shop, 1
 sattamatkasuper.com, 0
 joycasino-slots-777.org, 1
 www.funnymagic.com, 0
-secure.runascape.com-va.ru, 735
+secure.runascape.com-va.ru, 1
 webgate.ec.europa.eu, 0
 www.laurajayedesigns.com, 1
 hfax-cancellation-request.com, 1
@@ -73802,7 +73800,7 @@ support.watch.nba.com, 0
 www.saregama.com, 0
 www.visme.co, 0
 pun.me, 0
-www.amazon.sa, 1609092989524702
+www.amazon.sa, 0
 www.jdelist.com, 0
 myanimelist.net, 0
 infohuntbd.com, 1
@@ -75704,7 +75702,7 @@ www.loreal.com, 0
 www.inkcups.com, 0
 develux.com, 0
 urlz.fr, 1
-www.glassdoor.com, 1635706697564182
+www.glassdoor.com, 0
 verify-newpayees.org, 1
 www.jitbit.com, 0
 www.zdnet.com, 0
@@ -75875,7 +75873,7 @@ disablepayee-lb.com, 1
 en.wikipedia.org, 0
 xolec32515.temp.swtest.ru, 1
 www.solidea.com, 0
-www.lsa-conso.fr, 1608958377694983
+www.lsa-conso.fr, 0
 en.wikipedia.org, 0
 tnm.engin.umich.edu, 0
 musing-mendel.45-88-108-231.plesk.page, 1
@@ -76027,7 +76025,7 @@ olhardigital.com.br, 0
 itau-internetbkn.wpdevcloud.com, 1
 attmaillogin.weebly.com, 1
 nhygbcrvcrfhrjthvtjtyy.weebly.com, 1
-en.wikipedia.org, 1635707256000621
+en.wikipedia.org, 0
 beefy.financial, 1
 www.theweathernetwork.com, 0
 www.playstationlifestyle.net, 0
@@ -76058,7 +76056,7 @@ www.dolphinsonline.gr, 0
 www.techradar.com, 0
 www.poundsterlingforecast.com, 0
 freyayuki.tumblr.com, 0
-darksky.net, 1626120521743041
+darksky.net, 0
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se, 1
 www.slideserve.com, 0
 online2pdf.com, 0
@@ -76722,7 +76720,7 @@ clientsupportinglinec.net, 1
 www.aromabyfire.com, 0
 www.musicthinktank.com, 0
 xh36954689734987348098.el.r.appspot.com, 1
-www.ladepeche.fr, 1609111595346055
+www.ladepeche.fr, 0
 videosfacebook.today, 1
 cengelkoylife.com, 1
 luckypetshouse.com, 1
@@ -77478,7 +77476,7 @@ techthelead.com, 0
 mail.tollswhatsapp.duckdns.org, 1
 www.tpsservices.runescape.com-dg.ru, 1
 thehackernews.com, 0
-stemsseducation.com, 10003563
+stemsseducation.com, 1
 hmgroup.com, 0
 holychild.org, 0
 20.48.251.175, 1
@@ -77898,7 +77896,7 @@ webdisk.granadoemurahara.com.br, 1
 toriko.fandom.com, 0
 opticom.bg, 0
 www.businessnewsdaily.com, 0
-bussines.lacuisinedetchems.com, 22
+bussines.lacuisinedetchems.com, 1
 lioydsonline.co.uk, 1
 poland-orlen.fun, 1
 ashutoshdwivedi.com, 0
@@ -78389,7 +78387,7 @@ fqwqkqsvmk.duckdns.org, 1
 www.indeed.com, 0
 www.santander.co.uk, 0
 user.apiuluss.co.jp.a534gdf.buzz, 1
-www.rs3-game.com, 74
+www.rs3-game.com, 1
 en.wikipedia.org, 0
 www.bludomain9.com, 1
 www.editage.com.br, 0
@@ -78486,7 +78484,7 @@ znn44t.com, 1
 deepersonar.com, 0
 anarchitecturestudio.com, 1
 easyasterisk.com.ru, 1
-services.runescape.com-vzla.ru, 545
+services.runescape.com-vzla.ru, 1
 user67509874097802.el.r.appspot.com, 1
 nixtechnix.com, 1
 www.circulaires.com, 0
@@ -78605,7 +78603,7 @@ gabunggot2021.duckdns.org, 1
 force1rc.com, 0
 klutzcommercial.net, 1
 quizlet.com, 0
-stemsseducation.com, 10003221
+stemsseducation.com, 1
 rioinformal.com, 1
 deets.feedreader.com, 0
 www.skyline-china.com, 1
@@ -79356,7 +79354,7 @@ journal.ui.ac.id, 0
 rabbisacks.org, 0
 www.eia.gov, 0
 howtodelete.co, 0
-secure.runascape.com-vz.ru, 524
+secure.runascape.com-vz.ru, 1
 prius.ecrostech.com, 0
 taxi.nv.gov, 0
 www.goldenislesrilanka.com, 0
