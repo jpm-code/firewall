@@ -415,9 +415,11 @@
     <ClInclude Include="EventHandler.h" />
     <ClInclude Include="graal_isolate.h" />
     <ClInclude Include="graal_isolate_dynamic.h" />
+    <ClInclude Include="EventLoop.h" />
     <ClInclude Include="LibNetworkProcessorWrapper.h" />
     <ClInclude Include="LibNetworkProcessorWrapper_dynamic.h" />
     <ClInclude Include="logger.h" />
+    <ClInclude Include="MessageQueue.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="utils.h" />

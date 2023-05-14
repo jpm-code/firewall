@@ -16,10 +16,11 @@
 
 using namespace nfapi;
 
-
 #include <string>
 #include <sstream>
 //#include <vector>
+
+#include "MessageQueue.h"
 
 //
 //	API events handler
@@ -63,6 +64,13 @@ class EventHandler : public NF_EventHandler
 	virtual void udpCanReceive(ENDPOINT_ID id);
 
 	virtual void udpCanSend(ENDPOINT_ID id);
+
+public:
+	// Constructor - sets queue variable
+	EventHandler( MessageQueue& queue ) : queue( queue ) {}
+
+private:
+	MessageQueue& queue;
 
 };
 

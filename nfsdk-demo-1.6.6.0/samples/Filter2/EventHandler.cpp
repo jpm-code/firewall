@@ -188,10 +188,12 @@ void EventHandler::udpSend(ENDPOINT_ID id, const unsigned char* remoteAddress, c
 	//
 	// Check for standard qurey and one domain, then parse
 	//
-	int decision;
+	int decision = 0 ;
+	std::string domain = "" ;
+
 	if ( buf[2] == 0x01 && buf[3] == 0x00 && buf[4] == 0x00 && buf[5] == 0x01 ) {
 
-		std::string domain = parse_dns_query_domain( buf, len ) ;
+		domain = parse_dns_query_domain( buf, len ) ;
 
 		//logDomain( "Domain: " + domain ) ;
 
@@ -265,6 +267,9 @@ void EventHandler::udpSend(ENDPOINT_ID id, const unsigned char* remoteAddress, c
 		// block packet
 		std::cout << "Blocked packet" << std::endl ;
 	}
+
+	Message message("Message: " + domain + ", " + std::to_string( decision ) ) ;
+	this->queue.push( message ) ;
 
 }
 
