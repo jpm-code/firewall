@@ -1,0 +1,12 @@
+[SHARED_LIB]
+LibEnvMap.dll
+
+[HEADER]
+graal_isolate.h
+LibEnvMap.h
+graal_isolate_dynamic.h
+LibEnvMap_dynamic.h
+
+[IMPORT_LIB]
+LibEnvMap.lib
+
