@@ -1,0 +1,22 @@
+Hello Word: /* Need ruby_sysinit() else won't work on Windows */
+#include <ruby.h>
+
+int main(int argc, char* argv[])
+{
+        ruby_sysinit(&argc, &argv);
+        ruby_init();
+
+   ruby_init_loadpath();
+
+       rb_eval_string("puts \"Hello, World!\"");
+
+           ruby_cleanup(0);
+               return 0;
+}
+
+Windows:
+
+gcc -IC:\Ruby27\include\ruby-2.7.0 -IC:\Ruby27\include\ruby-2.7.0\i386-mingw32 -LC:\Ruby27\lib main.c -lmsvcrt-ruby270
+
+Linux:
+gcc -I/home/jools/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0 -I/home/jools/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/x86_64-linux -L/home/jools/.rvm/rubies/ruby-3.0.0/lib main.c -lruby
